@@ -84,7 +84,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 
 .profile img {
@@ -115,8 +115,20 @@ strong {
   color: var(--global-text-color);
 }
 
+strong {
+  font-weight: bold;
+}
+
+.bref {
+  font-size: 15px;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
+}
+
+.desc {
+  color: grey;
 }
 
 table td,
@@ -127,16 +139,13 @@ table td {
   font-size: 1rem;
 }
 
-a,
 table.table a {
   color: var(--global-theme-color);
 }
-a:hover,
 table.table a:hover {
   color: var(--global-theme-color);
   text-decoration: underline;
 }
-a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
 }
@@ -195,7 +204,7 @@ blockquote {
 .profile .address {
   margin-bottom: 5px;
   margin-top: 5px;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 .profile .address p {
   display: inline-block;
@@ -212,7 +221,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 32%;
   }
   .profile .address p {
     display: block;
