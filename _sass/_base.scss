@@ -19,8 +19,20 @@ strong {
   color: var(--global-text-color);
 }
 
+strong {
+  font-weight: bold;
+}
+
+.bref {
+  font-size: 15px;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
+}
+
+.desc {
+  color: grey;
 }
 
 table {
@@ -35,7 +47,7 @@ table {
   }
 }
 
-a,
+// a,
 table.table a {
   color: var(--global-theme-color);
 
@@ -117,7 +129,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: sans-serif;
 
     p {
       display: inline-block;
@@ -136,7 +148,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 32%;
 
     .address {
       p {
