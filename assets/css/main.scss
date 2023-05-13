@@ -4,7 +4,11 @@
 @charset "utf-8";
 
 // Dimensions
-$max-content-width: {{ site.max_width }};
+$container-max-width: {{site.container_max_width}};
+
+$main-max-width: {{ site.main_max_width }};
+
+$pub-max-width: {{ site.pub_max_width }};
 
 @import
   "variables",
