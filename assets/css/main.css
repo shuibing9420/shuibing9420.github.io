@@ -84,7 +84,17 @@ body.sticky-bottom-footer {
 }
 
 .container {
+  max-width: 1300px;
+}
+
+.pubstyle {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.mainstyle {
   max-width: 900px;
+  margin: auto;
 }
 
 .profile img {
@@ -119,8 +129,12 @@ strong {
   font-weight: bold;
 }
 
+h1, h2 {
+  font-weight: 400;
+}
+
 .bref {
-  font-size: 15px;
+  font-size: 10px;
 }
 
 hr {
@@ -152,7 +166,8 @@ table.table a:hover:after :not(.nav-item.dropdown) {
 
 figure,
 img {
-  max-width: 90vw;
+  max-width: 70%;
+  margin-left: 5px;
 }
 
 blockquote {
@@ -221,7 +236,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 32%;
+    width: 25%;
   }
   .profile .address p {
     display: block;
@@ -529,12 +544,13 @@ footer.sticky-bottom {
   font-size: 1.5rem;
 }
 .publications h2.year {
-  color: var(--global-divider-color);
+  color: rgba(0, 0, 0, 0.32);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1rem;
   margin-top: 2rem;
   margin-bottom: -2rem;
   text-align: right;
+  font-weight: 600;
 }
 .publications ol.bibliography {
   list-style: none;
@@ -552,6 +568,7 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr {
   height: 2rem;
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
@@ -570,7 +587,7 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
-  font-weight: bolder;
+  font-weight: 500;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
