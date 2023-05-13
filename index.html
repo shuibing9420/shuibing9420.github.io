@@ -12,8 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Shuibing  He (何水兵)</title>
     <meta name="author" content="Shuibing  He (何水兵)">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="">
     <meta name="keywords" content="Shuibing He, Zhejiang University, academic-website">
 
 
@@ -92,12 +91,6 @@
         </div>
       </nav>
 
-      <!-- Scrolling Progress Bar -->
-      <progress id="progress" value="0">
-        <div class="progress-container">
-          <span class="progress-bar"></span>
-        </div>
-      </progress>
     </header>
 
 
@@ -188,7 +181,7 @@
 
         <!-- Entry bib key -->
         <div id="jin2023mapping" class="col-sm-10">
-        <!-- Title --><div class="title">Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware</div>
+        <!-- Title --><div class="title"><a href="/assets/pdf/asplosc23main-p490-p-ee30ead0d9-63701-final.pdf">Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware</a></div>
 <!-- Author -->
         <div class="author">
         
@@ -226,7 +219,7 @@
 
         <!-- Entry bib key -->
         <div id="chen2023icache" class="col-sm-10">
-        <!-- Title --><div class="title">iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training</div>
+        <!-- Title --><div class="title"><a href="/assets/pdf/iCache_An_Importance-Sampling-Informed_Cache_for_Accelerating_I_O-Bound_DNN_Model_Training.pdf">iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training</a></div>
 <!-- Author -->
         <div class="author">
         
@@ -267,7 +260,7 @@
 
         <!-- Entry bib key -->
         <div id="chen2023bm" class="col-sm-10">
-        <!-- Title --><div class="title">BM-Store: A Transparent and High-Performance Local Storage Architecture for Bare-Metal Clouds Enabling Large-Scale Deployment</div>
+        <!-- Title --><div class="title"><a href="/assets/pdf/BM-Store_A_Transparent_and_High-performance_Local_Storage_Architecture_for_Bare-metal_Clouds_Enabling_Large-scale_Deployment.pdf">BM-Store: A Transparent and High-Performance Local Storage Architecture for Bare-Metal Clouds Enabling Large-Scale Deployment</a></div>
 <!-- Author -->
         <div class="author">
         
@@ -305,7 +298,7 @@
 
         <!-- Entry bib key -->
         <div id="wang2022xpgraph" class="col-sm-10">
-        <!-- Title --><div class="title">XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs</div>
+        <!-- Title --><div class="title"><a href="/assets/pdf/XPGraph_XPline-Friendly_Persistent_Memory_Graph_Stores_for_Large-Scale_Evolving_Graphs.pdf">XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs</a></div>
 <!-- Author -->
         <div class="author">
         
@@ -346,7 +339,7 @@
 
         <!-- Entry bib key -->
         <div id="dang2022nvalloc" class="col-sm-10">
-        <!-- Title --><div class="title">NVAlloc: Rethinking Heap Metadata Management in Persistent Memory Allocators</div>
+        <!-- Title --><div class="title"><a href="/assets/pdf/nvalloc-asplos22.pdf">NVAlloc: Rethinking Heap Metadata Management in Persistent Memory Allocators</a></div>
 <!-- Author -->
         <div class="author">
         
@@ -395,7 +388,7 @@
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2023 Shuibing  He (何水兵). Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>.
+        © Copyright 2023 Shuibing  He (何水兵). Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
 Last updated: May 13, 2023.
       </div>
     </footer>
@@ -434,83 +427,6 @@ Last updated: May 13, 2023.
 
     
     
-
-<!-- Scrolling Progress Bar -->
-<script type="text/javascript">
-  /*
-   * This JavaScript code has been adapted from the article 
-   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
-   * published on the website https://css-tricks.com on the 7th of May, 2014.
-   * Couple of changes were made to the original code to make it compatible 
-   * with the `al-foio` theme.
-   */
-  const progressBar = $("#progress");
-  /*
-   * We set up the bar after all elements are done loading.
-   * In some cases, if the images in the page are larger than the intended
-   * size they'll have on the page, they'll be resized via CSS to accomodate
-   * the desired size. This mistake, however, breaks the computations as the
-   * scroll size is computed as soon as the elements finish loading.
-   * To account for this, a minimal delay was introduced before computing the
-   * values.
-   */
-  window.onload = function () {
-    setTimeout(progressBarSetup, 50);
-  };
-  /*
-   * We set up the bar according to the browser.
-   * If the browser supports the progress element we use that.
-   * Otherwise, we resize the bar thru CSS styling
-   */
-  function progressBarSetup() {
-    if ("max" in document.createElement("progress")) {
-      initializeProgressElement();
-      $(document).on("scroll", function() {
-        progressBar.attr({ value: getCurrentScrollPosition() });
-      });
-      $(window).on("resize", initializeProgressElement);
-    } else {
-      resizeProgressBar();
-      $(document).on("scroll", resizeProgressBar);
-      $(window).on("resize", resizeProgressBar);
-    }
-  }
-  /*
-   * The vertical scroll position is the same as the number of pixels that
-   * are hidden from view above the scrollable area. Thus, a value > 0 is
-   * how much the user has scrolled from the top
-   */
-  function getCurrentScrollPosition() {
-    return $(window).scrollTop();
-  }
-
-  function initializeProgressElement() {
-    let navbarHeight = $("#navbar").outerHeight(true);
-    $("body").css({ "padding-top": navbarHeight });
-    $("progress-container").css({ "padding-top": navbarHeight });
-    progressBar.css({ top: navbarHeight });
-    progressBar.attr({
-      max: getDistanceToScroll(),
-      value: getCurrentScrollPosition(),
-    });
-  }
-  /*
-   * The offset between the html document height and the browser viewport
-   * height will be greater than zero if vertical scroll is possible.
-   * This is the distance the user can scroll
-   */
-  function getDistanceToScroll() {
-    return $(document).height() - $(window).height();
-  }
-
-  function resizeProgressBar() {
-    progressBar.css({ width: getWidthPercentage() + "%" });
-  }
-  // The scroll ratio equals the percentage to resize the bar
-  function getWidthPercentage() {
-    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
-  }
-</script>
 
   </body>
 </html>

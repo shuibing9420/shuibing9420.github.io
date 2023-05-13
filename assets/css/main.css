@@ -11,7 +11,7 @@
   --global-text-color: #000000;
   --global-text-color-light: #828282;
   --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-hover-color: black-color;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
@@ -84,11 +84,11 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 900px;
 }
 
 .pubstyle {
-  max-width: 1200px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -134,7 +134,7 @@ h1, h2 {
 }
 
 .bref {
-  font-size: 10px;
+  font-size: 0.9rem;
 }
 
 hr {
@@ -166,7 +166,7 @@ table.table a:hover:after :not(.nav-item.dropdown) {
 
 figure,
 img {
-  max-width: 70%;
+  max-width: 60%;
   margin-left: 1.5rem;
 }
 
@@ -217,7 +217,7 @@ blockquote {
   width: 100%;
 }
 .profile .address {
-  margin-left: 1.5rem;
+  margin-left: 0rem;
   margin-bottom: 5px;
   margin-top: 5px;
   font-family: sans-serif;
@@ -228,7 +228,8 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: -0.5rem;
+  margin-top: 1.5rem;
+  margin-left: -1rem;
 }
 
 .profile.float-left {
@@ -237,7 +238,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 24%;
+    width: 28%;
   }
   .profile .address p {
     display: block;
@@ -284,6 +285,16 @@ blockquote {
   background-color: var(--global-bg-color);
 }
 
+p a {
+  color: navy;
+  font-weight: 400;
+}
+
+.title a {
+  color: navy;
+  text-decoration: none;
+}
+
 .navbar.navbar-light a:hover {
   text-decoration: none;
 }
@@ -291,15 +302,15 @@ blockquote {
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link {
-  color: var(--global-text-color);
+  color: black;
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: var(--global-hover-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
-  font-weight: bolder;
-  color: var(--global-theme-color);
+  font-weight: 600;
+  color: navy;
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
   color: var(--global-hover-color);
@@ -548,8 +559,7 @@ footer.sticky-bottom {
   color: rgba(0, 0, 0, 0.32);
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 1rem;
-  padding-left: 1rem;
-  margin-left: 2rem;
+  padding-left: 1.5rem;
   font-weight: 600;
 }
 .publications ol.bibliography {
@@ -587,6 +597,7 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
+  color: navy;
   font-weight: 500;
 }
 .publications ol.bibliography li .author a {
