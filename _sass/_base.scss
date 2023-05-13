@@ -28,7 +28,7 @@ h1, h2 {
 }
 
 .bref {
-  font-size: 10px;
+  font-size: 0.9rem;
 }
 
 hr {
@@ -67,7 +67,7 @@ table.table a {
 
 figure,
 img {
-  max-width: 70%;
+  max-width: 60%;
   margin-left: 1.5rem;
 }
 
@@ -132,7 +132,7 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-left: 1.5rem;
+    margin-left: 0rem;
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: sans-serif;
@@ -145,7 +145,8 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: -0.5rem;
+  margin-top: 1.5rem;
+  margin-left: -1rem;
 }
 
 .profile.float-left {
@@ -154,7 +155,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 24%;
+    width: 28%;
 
     .address {
       p {
@@ -214,6 +215,18 @@ blockquote {
   }
 }
 
+p{
+a {
+  color: navy;
+  font-weight: 400;
+}
+}
+
+.title a {
+  color: navy;
+  text-decoration: none;
+}
+
 .navbar.navbar-light {
   a {
     &:hover {
@@ -226,7 +239,7 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: black;
 
     &:hover {
       color: var(--global-hover-color);
@@ -235,8 +248,8 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
+    font-weight: 600;
+    color: navy;
 
     &:hover {
       color: var(--global-hover-color);
@@ -570,8 +583,8 @@ footer.sticky-bottom {
     color: rgb(0 0 0 / 32%);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    padding-left: 1rem;
-    margin-left: 2rem;
+    padding-left: 1.5rem;
+    // margin-left: 2rem;
     // margin-top: 2rem;
     // margin-bottom: -2rem;
     // text-align: right;
@@ -619,6 +632,7 @@ footer.sticky-bottom {
       }
 
       .title {
+        color: navy;
         font-weight: 500;
       }
 
