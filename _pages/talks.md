@@ -6,6 +6,8 @@ nav: true
 nav_order: 4
 ---
 
+- Intelligent Computing Storage Systems, Workshop of Computer Science Technology and Research Methods, May 12, 2023, Hangzhou, China.
+- System Research for AI Systems, The Huawei-ZJU Technique Communication Meeting, April 14, 2023, Hangzhou, China.
 - Research on Persistent Memory Systems, Northwestern Polytechnical University, December 15, 2022, Network Meeting, China.
 - Intelligent Computing and Storage, The Huawei-ZJU Technique Communication Meeting, November 12, 2022, Hangzhou, China.
 - The Frontiers of Persistent Memory and Processing in Memory, The Huawei-ZJU Technique Communication Meeting, October 25, 2022, Hangzhou, China.
