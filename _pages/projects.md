@@ -12,8 +12,8 @@ nav_order: 2
 - "Research on Heterogeneous Pooled Resource Management and Task Scheduling in Deep Learning Scenarios", Alibaba Innovative Research Project, PI, 01/2022-12/2022.
 - "The Science and Education Innovation Open Platform of the Next Generation of Artificial Intelligence ", National Key Research and Development Program of China, No.2021ZD0110700, Co-PI, 12/2021-12/2024.
 - "Towards the Performance Optimization of Parallel Storage System for Large-scale Deep Learning", National Science Foundation of China (NSFC), No. 62172361, PI, 01/2022-12/2025.
-- "Research Platform of Heterogeneous Intelligent Computing Technology", Research Project of Zhejiang Lab, No. 2020KC0AC01, PI, ¥7,000,000, 7/2020-6/2021.
-- "Brain Heuristic Mechanism-Oriented Artificial Intelligence Model and Algorithm", Research on AI Algorithm Strategy of Department of Ministry of Education, No. 2019xxxx, Co-PI, 10/2019-10/2020.
+- "Research Platform of Heterogeneous Intelligent Computing Technology", Research Project of Zhejiang Lab, No. 2020KC0AC01, PI, 7/2020-6/2021.
+- "Brain Heuristic Mechanism-Oriented Artificial Intelligence Model and Algorithm", Research on AI Algorithm Strategy of Department of Ministry of Education, Co-PI, 10/2019-10/2020.
 - "Nonvolatile Memory-Based Big Data Storage Systems", Zhejiang University Youth Research Innovation Project, No. 2018QNA5015, Co-PI, 01/2018-12/2019.
 - "Towards Active Storage in Heterogeneous Environments", National Science Foundation of Hubei of China, No. 2017CFC889, Co-PI, 01/2018-12/2019.
 - "Data Layout Optimization for I/O Systems with New Storage Devices in Big Data Environments", National Science Foundation of China (NSFC), No. 61572377, PI, 01/2016-12/2019.

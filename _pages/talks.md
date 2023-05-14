@@ -5,12 +5,15 @@ permalink: /talks/
 nav: true
 nav_order: 4
 ---
-
-- Intelligent Computing Storage Systems, Workshop of Computer Science Technology and Research Methods, May 12, 2023, Hangzhou, China.
-- System Research for AI Systems, The Huawei-ZJU Technique Communication Meeting, April 14, 2023, Hangzhou, China.
-- Research on Persistent Memory Systems, Northwestern Polytechnical University, December 15, 2022, Network Meeting, China.
-- Intelligent Computing and Storage, The Huawei-ZJU Technique Communication Meeting, November 12, 2022, Hangzhou, China.
-- The Frontiers of Persistent Memory and Processing in Memory, The Huawei-ZJU Technique Communication Meeting, October 25, 2022, Hangzhou, China.
+<!-- <div style="text-align: right"> your-text-here </div> --> 
+<!-- <p style='text-align: justify;'> Your Text </p> -->
+- Intelligent Computing Storage Systems, Workshop of Computer Science Technology and Research Methods, May 12, 2023, Hangzhou, China. 
+- System Research for AI Systems, The ZJU-Huawei Technique Communication Meeting,
+April 14, 2023, Hangzhou, China.
+- Research on Persistent Memory Systems, Northwestern Polytechnical University,
+December 15, 2022, Network Meeting, China.
+- Intelligent Computing and Storage, The ZJU-Huawei Technique Communication Meeting, November 12, 2022, Hangzhou, China.
+- The Frontiers of Persistent Memory and Processing in Memory, The ZJU-Huawei Technique Communication Meeting, October 25, 2022, Hangzhou, China.
 - Non-Volatile Memory Systems, The Huawei  Strategy and Technology Workshop (STW2022), September 27, 2022, Shenzhen, China.
 - Rethinking Heap Metadata Management in Persistent Memory Allocators, The CCF Chip Conference, July 30, 2022, Nanjing, China.
 - Towards the System Designs of Non-Volatile Memory, The Frontier Forum, School of Cyber Security, University of Chinese Academy of Sciences, May 26, 2022, Network Meeting, China.
