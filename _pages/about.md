@@ -25,7 +25,15 @@ social: false  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I’m currently a Professor at the College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), China. I received my Ph.D. in computer science and technology from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2009. My research interests include **intelligent computing, parallel and distributed computing, file and storage systems, non-volatile memory, in-memory computing, operating systems, and big data processing**.
+I’m currently a Professor at the College of Computer Science
+and Technology, [Zhejiang
+University](https://www.zju.edu.cn/), China. I received my
+Ph.D. in computer science and technology from [Huazhong
+University of Science and
+Technology](https://www.hust.edu.cn/) in 2009. My research
+interests include **intelligent computing, parallel and
+distributed computing, I/O and storage systems, non-volatile
+memory, and in-memory computing**.
 
 I’m a distinguished member of the China Computer Federation (CCF) and a committee member of the Information Storage Technology Specialized Committee of CCF, and an associate editor of the IEEE Transactions on Parallel and Distributed Systems (TPDS). I’m also the PI or Co-PI of over 10 grants sponsored by the National Science Foundation of China, National Key Research and Development Program and Alibaba-Inc, among others. I’ve published almost 80 papers in esteemed international conferences and journals, including ASPLOS, MICRO, HPCA, TC, TPDS, TOS.
 
