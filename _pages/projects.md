@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Project
+title: Grants
 permalink: /projects/
 nav: true
 nav_order: 2
 ---
 
-### **Research Project**
+<!-- ### **Research Project** -->
 
 - "Software Platform Design of Intelligent Computing", Program of Zhejiang Province Science and Technology, No. 2022C01044, Co-PI, 01/2022-12/2023.
 - "Research on Heterogeneous Pooled Resource Management and Task Scheduling in Deep Learning Scenarios", Alibaba Innovative Research Project, PI, 01/2022-12/2022.
