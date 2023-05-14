@@ -57,7 +57,7 @@ container_max_width: 900px
 main_max_width: 900px
 pub_max_width: 900px
 
-# TODO: add layout setti  ngs (single page vs. multi-page)
+# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
