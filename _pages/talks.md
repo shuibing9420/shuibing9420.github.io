@@ -3,30 +3,46 @@ layout: page
 title: Talks
 permalink: /talks/
 nav: true
+nav_order: 4
 ---
 
-#### Tutorials
-
-- Tutorial at WSDM 2023: **On the robustness of ChatGPT and NLP Foundation models: an adversarial and OOD perspective**, Feb., 2023. [[PDF](https://dgresearch.github.io/DG_tutorial_wsdm23_chatgpt.pdf)] [[More](https://dgresearch.github.io/)]
-- Tutorial at IJCAI 2022: **A Tutorial on Domain Generalization**, July, 2022. [[website](https://dgresearch.github.io/)]
-
-#### Invited talks
-
-- Invited talk: **Robust machine learning for responsible AI**, at Hefei University of Technology. Mar. 2023.
-- Invited talk: **Building robust machine learning models**, at MLNLP community. Sep. 2022. [[Video & PDF](https://www.bilibili.com/video/BV1hP411V7SP/)]
-- Invited talk: **Transfer learning: low-resource, generalization, and safety**, at AI Time. Apr. 2022. [[PDF](../assets/files/l16_aitime.pdf)] [[Video](https://www.bilibili.com/video/BV1nY411E7Uc/)] [[Zhihu](https://zhuanlan.zhihu.com/p/498902783)]
-- Invited talk: **Recent advance in transfer learning**, at Jiqizhixin. Jun. 2021.
-                    [[PDF](http://jd92.wang/assets/files/l15_jiqizhixin.pdf)]  [[Video](https://www.bilibili.com/video/BV1N5411T7Sb)]
-- Invited talk: **Transfer learning: challenges and methods**, at Shandong University, Jinan, China. Oct. 2018.
-- Invited talk: **Transfer learning methods**, at Shenzhen University & Harbin
-                    Institute of Technology. Jun. 2018. [[PDF](http://jd92.wang/assets/files/l14_hit.pdf)] [[Video](http://cs.hrbust.edu.cn/site/newslistread.asp?lid=201862915500727130483)]
-- Invited talk: **Domain adaptation in transfer learning**, at Extreme Vision, online. Dec. 14, 2017. [[PDF](http://jd92.wang/assets/files/l12_da.pdf)]  [[Video](http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247484940&idx=2&sn=35e64e07fde9a96afbb65dbf40a945eb&chksm=ec1febf5db6862e38d5e02ff3278c61b376932a46c5628c7d9cb1769c572bfd31819c13dd468&mpshare=1&scene=1&srcid=1219JpTNZFiNDCHsTUrUxwqy#rd)]
-
-#### Invited Course
-
-- Invited course: **Transfer learning**, at Tsinghua University. Dec. 2019. (THU's
-                    advanced machine learning course for EE graduates) [[Class photo](http://jd92.wang/image/img_thu.png)]
-- Invited course: **Transfer learning**, at Leiphone, online. Nov. 4, 2017.
-- Invited course: **On machine learning**, at AI Salon at Shanghai Jiao Tong University, Shanghai, China. Sep. 16, 2017. [[PDF](http://jd92.wang/assets/files/l10_mlsjtu.pdf)] [[Photo](http://jd92.wang/assets/image/20170916.jpg)]
-- Invited course: **Feature engineering in machine learning**, at Zhihu Live, online. Mar. 19, 2017. [[PDF]](http://jd92.wang/assets/files/l07_zhihu_fe.pdf) [[Visit Live](https://www.zhihu.com/lives/819543866939174912)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
-- Invited course: **Machine learning starter**, at Zhihu Live, online. Dec. 22. [[PDF](http://jd92.wang/assets/files/l06_zhihu_ml.pdf)] [[Visit Live](https://www.zhihu.com/lives/792423196996546560?utm_campaign=zhihulive&utm_source=zhihucolumn&utm_medium=Livecolumn)] <img src="/assets/img/zhihu_live.png" width="60" height="18" />
+- Research on Persistent Memory Systems, Northwestern Polytechnical University, December 15, 2022, Network Meeting, China.
+- Intelligent Computing and Storage, The Huawei-ZJU Technique Communication Meeting, November 12, 2022, Hangzhou, China.
+- The Frontiers of Persistent Memory and Processing in Memory, The Huawei-ZJU Technique Communication Meeting, October 25, 2022, Hangzhou, China.
+- Non-Volatile Memory Systems, The Huawei  Strategy and Technology Workshop (STW2022), September 27, 2022, Shenzhen, China.
+- Rethinking Heap Metadata Management in Persistent Memory Allocators, The CCF Chip Conference, July 30, 2022, Nanjing, China.
+- Towards the System Designs of Non-Volatile Memory, The Frontier Forum, School of Cyber Security, University of Chinese Academy of Sciences, May 26, 2022, Network Meeting, China.
+- Heterogeneous Intelligent Computing Systems, The Research Forum, School of Cyber Security, University of Chinese Academy of Sciences, March 26, 2022, Network Meeting, China.
+- AUTO-PRUNE: Automated DNN Pruning and Mapping for ReRAM-Based Accelerator, The 2021 Flash Memory World, July 30, 2021, Hangzhou, China.
+- AUTO-PRUNE: Automated DNN Pruning and Mapping for ReRAM-Based Accelerator, The Research Forum at Anhui University, November 12, 2021, Network Meeting, China.
+- Compiler-Aided Checkpointing using Crash-Consistent Data Structures in NVMM Systems, The 2020 Flash Memory World, July 31, 2020, Network Meeting, China.
+- Opportunities and Challenges of Intelligence Computing Systems, The 15th Ph.D. Student Innovation Forum, College of Computer Science and Technology, Zhejiang University, November 27, 2019, Hangzhou, China.
+- Cloud Storage and Big Data Storage Service, School of Geodesy and Geomatics, Wuhan University, April 11, 2019, Wuhan, China.
+- Performance Optimizations of Big Data Storage Systems, Research Frontiers of Graduate, School of Computer Science, Wuhan University, April 2, 2019, Wuhan, China.
+- KT-Store: A Key-Order and Write-Order Hybrid Key-Value Store with High Write and Range-query Performance, The 15th Annual IFIP International Conference on Network and Parallel Computing, Muroran Institute of Technology, November 30, 2018, Hokkaido, Japan.
+- Application and Technology-Driven Big Data Storage Systems, School of Computer Science, Zhejiang University, November 9, 2018, Hangzhou, China.
+- Application and Technology-Driven Big Data Storage Systems, School of Information Science and Technology, ShanghaiTech University, November 7, 2018, Shanghai, China.
+- Big Data Storage System Challenges: Past, Present, and Future, School of Computer Science, Tianjin University, June 12, 2018, Tianjin, China.
+- Application and Technology-Driven Big Data Storage Systems, Research Frontiers of Graduate, School of Computer Science, Wuhan University, June 4, 2018, Wuhan, China.
+- A Migratory Heterogeneity-Aware Data Layout Scheme for Hybrid Parallel File Systems, May 24, 2018, Vancouver, Canada.
+- Application and Technology-Driven I/O Performance Design for Big Data, School of Computer Science, Zhejiang University, May 11, 2018, Hangzhou, China.
+- Towards I/O Performance Optimizations for Big Data, Alibaba-Inc, April 13, 2018, Hangzhou, China.
+- Cloud Storage Technology, School of Geodesy and Geomatics, Wuhan University, March 25, 2018, Wuhan, China.
+- Chances and Challenges of I/O System Design for Data-Intensive Applications in Big Data Environment, Mass Storage System Class, School of Computer, Wuhan University, September 25, 2017, Wuhan, China. 
+- Parallel I/O System Performance Optimization, Young Scholar Forum Speaker, the 23rd National Conference of Information Storage, September 22, 2017, Xian, China. 
+- Cloud Storage and Parallel Storage Technology in Big Data Era, School of Geodesy and Geomatics, Wuhan University, March 31, 2017, Wuhan, China.
+- I/O Optimization for Data-Intensive Big Data Applications, School of Computer Science and Technology, University of Science and Technology of China, March 27, 2017, Hefei, China.
+- Performance Optimization of Heterogeneous Parallel I/O Systems, Shenzhen Institute of Advanced Technology, Chinese Academy of Science, December 20, 2016, Shenzhen, China.
+- On the Parallel I/O Optimizing Technology, Huawei Storage Summit, November 5, 2016, Chengdu, China.
+- Data Layout of Big Data Storage System, School of Computer Science, Wuhan University,  May 7, 2016, Wuhan, China.
+- Big Data and Cloud Storage, School of Geodesy and Geomatics, Wuhan University, April 29, 2016, Wuhan, China.
+- HAS: Heterogeneity-Aware Selective Layout Scheme for Parallel File Systems on Hybrid Servers, Young Scholar Storage Forum at Huazhong University of Science and Technology, July 15, 2015, Wuhan, China. 
+- A Heterogeneity-Aware Region-Level Data Layout Scheme for Hybrid Parallel File Systems, the 44th International Conference on Parallel Processing (ICPP2015), September 1-4, 2015, Beijing, China.
+- HAS: Heterogeneity-Aware Selective Layout Scheme for Parallel File Systems on Hybrid Servers, the 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS2015), May 25-29, 2015, Hyderabad, India.
+- PSA: A Performance and Space-Aware Data Layout Scheme for Hybrid Parallel File Systems, the Data-Intensive Scalable Computing Systems Workshop (DISC2014), in conjunction with ACM/IEEE SuperComputing (SC2014), Nov. 16-21, New Orleans, LA, USA. 
+- Performance-Aware Data Placement in Hybrid Parallel File Systems, the 14th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2014), Aug 24-27, 2014, Dalian, China.
+- S4D-Cache: Smart Selective SSD Cache for Parallel I/O Systems, the 34th International Conference on Distributed Computing Systems (ICDCS2014), June 30-July 3, 2014, Madrid, Spain.
+- CARL: A Cost-Aware Region-Level Data Placement Scheme for Hybrid Parallel I/O Systems, the poster in the Alumni Reunion at Illinois Institute Technology, Oct. 1, 2013, Chicago, IL, USA.
+- A Cost-Aware Region-Level Data Placement Scheme for Hybrid Parallel I/O Systems, the IEEE International Conference on Cluster Computing (CLUSTER2013), Sept. 23-27, 2013, Indianapolis, IN, USA.
+- BPS: A Performance Metric of I/O System, the International Workshop on High-Performance Data-Intensive Computing (HPDIC2013), in conjunction with the 27th IEEE International Parallel and Distributed Processing Symposium (IPDPS2013), May 20-24, 2013, Cambridge, MA, USA.
+- An Object-Based Storage Controller Based on Switch Fabric, the International Conference on Networking, Architecture, and Storage (NAS2007), July. 29-31, 2007, Guilin, China.

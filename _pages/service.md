@@ -3,49 +3,82 @@ layout: page
 title: Service
 permalink: /service/
 nav: true
+nav_order: 3
 ---
 
-#### Academic service
+### **Academic Service**
 
-- Journal editorship:
-  - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
-- Conference organizer:
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
-- Conference senior member/area chair:
-  - IJCAI 2023 senior PC
-  - AAAI 2023 senior PC
-- Conference PC member: 
-  - ML area: ICML (2023, 2022, 2021, 2020); NeurIPS (2023, 2022, 2021, 2020); ICLR (2023, 2022, 2021)
-  - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV area: CVPR (2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM area: KDD (2021); WWW (2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
-  - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
-- Journal reviewer: 
-  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, TMC, ACM CSUR, ACM TIST, IEEE TBD, Knowledge-Based Systems, Neurocomputing, Pervasive and Mobile Computing.
-- Membership: 
-  - Member of CCF technical committee pervasive computing (TCPC)
-  - Member of human computer interaction (TCHCI)
-  - CCF member
+##### **Journal Editor:**
+- Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A)
 
-#### Awards
 
-- Outstanding reviewer. NeurIPS 2022.
-- Innovation award. IJCAI federated learning workshop 2022.
-- Distinguished doctoral thesis award (中国科学院优秀博士学位论文奖) 2020.
-- Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
-- Outstanding Scholarship of CAS president (中科院院长优秀奖) 2019.
-- Special scholarship of ICT (中科院计算所所长特别奖) 2019.
-- Student Scholarship. AAAI Conference on Artificial Intelligence (AAAI) 2019.
-- Student Travel Grant. ACM International Conference on Multimedia (ACMMM) 2018.
-- Outstanding Reviewer. Neurocomputing. 2018.
-- Best Paper. The 3rd International Conference on Crowd Science and Engineering (ICCSE) 2018.
-- Student Travel Award. International Conference on Machine Learning (ICML) 2018.
-- Student Scholarship. AAAI conference on Artificial Intelligence (AAAI) 2018.
-- National Scholarship for PhD students, Ministry of Education 2017.
-- Merit Student, UCAS 2017.
-- Second prize of Bewinner Innovation scholarship. 2017.
-- Excellent Graduate, NCUT 2014.
-- Excellent Bachelor's Graduation Thesis, NCUT 2014.
-- Beijing Merit Student, Beijing City 2013.
-- National Scholarship (3x), Ministry of Education 2012, 2013, 2014.
+##### **Conference Chair:**
+  - Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
+  - NVM and memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
+  - Excellent Paper Forum Chair, The 26th National Conference of Information Storage 2020, September 24, 2020, Shanghai, China.
+  - Publicity Chair, The 39th IEEE International Symposium on Reliable Distributed Systems (SRDS 2020, CCF B), Shanghai, China.
+  - Yong Scholar Forum Chair, The 25th National Conference of Information Storage 2019, September 18, 2019, Shenzhen, Guangdong, China.
+  - Ph.D. Student Forum Chair, The 1st Alibaba Cloud and CCF Information Storage Workshop, April 14, 2018, Shanghai Jiao Tong University, Shanghai, China.
+
+
+##### **Conference PC Member or Reviewer:** 
+- The 52nd International Conference on Parallel Processing (ICPP 2023)
+- The 23rd ChinaSys Workshop (ChinaSys23rd, China, 2022)
+- The 4th International Conference on High-Performance Big Data and Intelligent Systems (HDIS2022)
+- The 22nd ChinaSys Workshop (ChinaSys22nd, China, 2022)
+- The CCF Computer Systems Conference (CCFSys2021, Hangzhou, China) 
+- The 20th ChinaSys Workshop (ChinaSys20th, Hangzhou, Zhejiang, China)
+- The IEEE International Conference on Cluster Computing (Cluster2021, Portland, USA, CCF B).
+- The 29th International Conference on Computer Communications and Networks (ICCCN 2020, Honolulu, USA)
+- The 2020 International Conference on High-Performance Big Data and Intelligent Systems (HPBD&IS 2020, Shenzhen, China).
+- The 39th IEEE International Symposium on Reliable Distributed Systems (SRDS 2020, Shanghai, China, CCF B)
+- The 49th International Conference on Parallel Processing (ICPP 2020, Alberta, Canada, CCFB)
+- The 3rd International Industry/University Workshop on Data-center Analytics, Automation, and Control (DAAC 2019, Denver, USA)
+- The 28th International Conference on Computer Communications and Networks (ICCCN 2019, Valencia, Spain)
+- The 2019 International Conference on High-Performance Big Data and Intelligent Systems (HPBD&IS 2019, Shenzhen, China)
+- The 4th HPC Plus Workshop of HPC China (HPC+ 2018, Qingdao, China)
+- The 2nd International Industry/University Workshop on Data-center Analytics, Automation, and Control (DAAC 2018, Austin, USA)
+- The 27th International Conference on Computer Communication and Networks (ICCCN 2018, CCF C)
+- The 1st International Industry/University Workshop on Data-center Analytics, Automation, and Control (DAAC 2017, Austin, USA)
+- The 6th IEEE Non-Volatile Memory System and Applications Symposium (NVMSA 2017, Hsinchu, Taiwan)
+- The 1st Joint International Workshop on Parallel Data Storage & Data-Intensive Scalable Computing Systems (PDSW-DICSC 2016, Salt Lake City, USA)
+- The 30th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2016, CCF B)
+- The 30th IEEE International Conference on Advanced Information Networking and Applications (AINA 2016, Crans-Montana, Switzerland)
+- The 5th IEEE Non-Volatile Memory System and Applications Symposium (NVMSA 2016, Daegu, Korea)
+- The 10th IEEE International Conference on Networking, Architecture, and Storage (NAS 2015, Boston, USA)
+- The 4th IEEE Non-Volatile Memory System and Applications Symposium (NVMSA 2015, Hong Kong, China)
+- The International Workshop on Data-Intensive Scalable Computing Systems (DISCS 2015, Austin, USA)
+- The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
+
+
+##### **Journal Reviewer:** 
+- IEEE transactions on vehicular technology (TVT 2023)
+- Journal of Computer Research and Development (JCRD 2022)
+- Journal of Circuits, Systems, and Computers (JCSC 2022) 
+- Journal of Computer Research and Development (JCRD 2021)
+- The Computer Journal (CJ 2021)
+- Journal of Computer Research and Development (JCRD 2020)
+- Information Sciences (INS 2020, SCI)
+- Information Sciences (INS 2019, SCI)
+- Cluster Computing (CLUS 2019)
+- Journal of Computer Research and Development (JCRD 2019)
+- Journal of Computer Science and Technology (JCST 2019, CCF B)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS 2019, CCF A)
+- Journal of Harbin Engineering University (JHEU 2019, EI)
+- IEEE Transactions on Mobile Computing (TMC 2019, CCF A)
+- Microprocessors and Microsystems (MICPRO 2018, SCI)
+- Journal of Systems Architecture (JSA 2018, CCF B)
+- IEEE Access (2018, SCI)
+- IEEE Journal on Selected Areas in Communications (JSAC 2018)
+- Physics Letters A (PLA 2018)
+- ACM Transactions on Storage (TOS 2017, CCF A)
+- IEEE Access (2017, SCI)
+- IEEE Transactions on Mobile Computing (TMC 2017, CCF A)
+- Soft Computing (SOCO 2017, CCF C)
+- Journal of Parallel and Distributed Computing (JPDC 2016, CCF B)
+- Parallel Computing (PARCO 2016, CCF B)
+- Journal of Communications and Networks (JCN 2016, SCI)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS 2015, CCF A)
+- Parallel Processing Letters (PPL 2015, SCI)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS 2014, CCF A)
+- IEEE Transactions on Computers (TC 2014, CCF A)
