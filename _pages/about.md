@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p class="bref"><a href ="https://scholar.google.com/citations?user=bVzOI38AAAAJ">Google Scholar</a>|<a href ="https://dblp.org/pid/60/7548.html">DBLP</a>|<a href ="https://person.zju.edu.cn/heshuibing">中文主页</a></p>
     <p class="bref">Email: <strong>heshuibing [at] zju.edu.cn</strong></p>
+    <p class="bref"><a href ="https://scholar.google.com/citations?user=bVzOI38AAAAJ">Google Scholar</a> || <a href ="https://dblp.org/pid/60/7548.html">DBLP</a> ||<a href ="https://person.zju.edu.cn/heshuibing">  中文主页 </a></p>
+    
     
 
 news: true  # includes a list of news items
