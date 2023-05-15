@@ -50,7 +50,6 @@ nav_order: 3
 - The International Workshop on Data-Intensive Scalable Computing Systems (DISCS 2015, Austin, USA)
 - The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
 
-
 ##### **Journal Reviewers** 
 - IEEE transactions on vehicular technology (TVT 2023)
 - Journal of Computer Research and Development (JCRD 2022)
