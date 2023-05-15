@@ -40,11 +40,11 @@ His research interests focus on **intelligent computing, parallel and
 distributed computing, I/O and storage systems, non-volatile
 memory, and in-memory computing**.
 
-He is a distinguished member of the China Computer
+<!-- He is a distinguished member of the China Computer
 Federation (CCF), a committee member of the Information
 Storage Technology Specialized Committee of CCF, and an
 associate editor of the IEEE Transactions on Parallel and
-Distributed Systems (TPDS). 
+Distributed Systems (TPDS).  -->
 He has received funding as the
 principal investigator or co-principal investigator in over
 ten grants supported by the National Science Foundation of
@@ -54,13 +54,13 @@ He has published over 80 papers in esteemed international
 conferences and journals, such as ASPLOS, MICRO, HPCA, TC,
 TPDS, and TOS.
 
-Additionally, He has served as a member of the Technical
+<!-- Additionally, He has served as a member of the Technical
 Program Committees for several conferences, including
 ICPP，IPDPS, CLUSTER, NVMSA, ChinaSys, ICPE, and CCFSys,
 and has been a reviewer for many prestigious journals, such
 as TPDS, TC, TMC, TOS, JPDC, PARCO, and JCST, among others.
 He has applied for more than 40 patents and seven software
-copyrights.
+copyrights. -->
 He has received numerous awards and recognition for his
 contributions to the community, including the 2020 IEEE TPDS
 Award for Editorial Excellence, the third prize of the Hubei
