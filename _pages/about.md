@@ -54,5 +54,18 @@ He has published over 80 papers in esteemed international
 conferences and journals, such as ASPLOS, MICRO, HPCA, TC,
 TPDS, and TOS.
 
-Additionally, he has served as a member of the Technical Program Committees for several conferences, including ChinaSys, ICPE, and CCFSys and has been a reviewer for many prestigious journals and conferences, such as TPDS, TC, TMC, TOS, JPDC, PARCO, and JCST, among others. He has applied for more than 40 patents and seven software copyrights.
-He has received numerous awards and recognition for his contributions to the community, including the 2020 IEEE TPDS Award for Editorial Excellence, the third prize of the Hubei Provincial Science and Technology Information Achievement Award in 2019-2020, and the Best Paper Award at the SPEED'2008 workshop.
+Additionally, He has served as a member of the Technical
+Program Committees for several conferences, including
+ICPP，IPDPS, CLUSTER, NVMSA, ChinaSys, ICPE, and CCFSys,
+and has been a reviewer for many prestigious journals, such
+as TPDS, TC, TMC, TOS, JPDC, PARCO, and JCST, among others.
+He has applied for more than 40 patents and seven software
+copyrights.
+He has received numerous awards and recognition for his
+contributions to the community, including the 2020 IEEE TPDS
+Award for Editorial Excellence, the third prize of the Hubei
+Provincial Science and Technology Information Achievement
+Award in 2019-2020, and the Best Paper Award at the
+SPEED'2008 workshop.
+
+**Announcement:** We have new Master, Ph.D., and Post-Doc openings. If you are interested in computer architecture, computer systems, and artificial intelligence research, please contact me with your CV.
