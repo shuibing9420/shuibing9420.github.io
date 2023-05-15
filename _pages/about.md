@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: ZJU100 Young Professor | Doctoral supervisor
+subtitle: ZJU100 Young Professor | Doctoral supervisor 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p class="bref" align="center"> <strong>heshuibing [at] zju.edu.cn</strong></p>
-    <p class="bref" align="center"><a href ="https://scholar.google.com/citations?user=bVzOI38AAAAJ">Google Scholar</a>|<a href ="https://dblp.org/pid/60/7548.html">DBLP</a>|<a href ="https://person.zju.edu.cn/heshuibing">  中文主页 </a></p>
+    <p class="bref" align="center"><a href ="https://scholar.google.com/citations?user=bVzOI38AAAAJ">Google Scholar</a>|<a href ="https://dblp.org/pid/60/7548.html">DBLP</a>|<a href ="https://person.zju.edu.cn/heshuibing">中文主页</a></p>
     
     
 
