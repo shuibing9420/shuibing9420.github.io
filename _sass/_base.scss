@@ -4,6 +4,12 @@
 
 // Typography
 
+// body {
+//   font-family: Georgia, sans-serif;
+//   // font-weight: 300;
+//   // -webkit-text-size-adjust: 100%;
+// }
+
 li {
   margin-bottom: 0.3rem;
 }
@@ -32,7 +38,7 @@ h1, h2 {
 }
 
 .bref {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 hr {
@@ -52,6 +58,8 @@ table {
 
   td {
     font-size: 1rem;
+    // font-weight: 400;
+    font-family: Georgia, sans-serif;
   }
 }
 
@@ -150,7 +158,7 @@ blockquote {
 
 .profile.float-right {
   margin-top: 1.5rem;
-  margin-left: -1rem;
+  margin-left: 0rem;
 }
 
 .profile.float-left {
@@ -588,6 +596,7 @@ footer.sticky-bottom {
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     padding-left: 1.5rem;
+    font-family: sans-serif;
     // margin-left: 2rem;
     // margin-top: 2rem;
     // margin-bottom: -2rem;
@@ -615,6 +624,7 @@ footer.sticky-bottom {
         text-align: center;
 
         abbr {
+          // font-family: sans-serif;
           display: inline-block;
           background-color: var(--global-theme-color);
           padding-left: 1rem;
