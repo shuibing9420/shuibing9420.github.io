@@ -138,7 +138,7 @@ h1, h2 {
 }
 
 .bref {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 hr {
@@ -155,6 +155,7 @@ table th {
 }
 table td {
   font-size: 1rem;
+  font-family: Georgia, sans-serif;
 }
 
 table.table a {
@@ -233,7 +234,7 @@ blockquote {
 
 .profile.float-right {
   margin-top: 1.5rem;
-  margin-left: -1rem;
+  margin-left: 0rem;
 }
 
 .profile.float-left {
@@ -564,6 +565,7 @@ footer.sticky-bottom {
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 1rem;
   padding-left: 1.5rem;
+  font-family: sans-serif;
   font-weight: 600;
 }
 .publications ol.bibliography {
