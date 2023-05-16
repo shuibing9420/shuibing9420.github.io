@@ -33,6 +33,7 @@ nav_order: 1
 - Jianxin Zhu
 - Wenjie Zhang
 - Weixu Zong
+- Ruidong Zhang
 
 #### **Undergraduate Students**
 - Rongchen Liu
