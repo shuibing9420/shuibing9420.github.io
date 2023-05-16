@@ -110,6 +110,11 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+body {
+  text-align: justify;
+  -webkit-text-size-adjust: 100%;
+}
+
 li {
   margin-bottom: 0.3rem;
 }
