@@ -9,14 +9,14 @@ nav_order: 1
 - Shuibing He
 
 #### **PostDoc**
-- Rui Wang (ATC'20, TOS'22, MICRO'22)
+- Rui Wang
 
 #### **PhD Students**
-- Ping Chen (CLUSTER'21, TPDS'22)
-- Siling Yang (ICS'21)
-- Weijian Chen (HPCA'23)
-- Zheng Dang (ASPLOS'22)
-- Zhenxin Li (TPDS'22)
+- Ping Chen 
+- Siling Yang 
+- Weijian Chen 
+- Zheng Dang 
+- Zhenxin Li 
 - Zhe Pan
 - Tong Wu
 - Yaowen Xu
