@@ -226,8 +226,8 @@ blockquote {
 }
 .profile .address {
   margin-left: 0rem;
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
   font-family: sans-serif;
 }
 .profile .address p {
@@ -310,7 +310,8 @@ p a {
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link {
-  color: black;
+  color: navy;
+  font-weight: 400;
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: var(--global-hover-color);
@@ -318,7 +319,7 @@ p a {
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
   font-weight: 600;
-  color: navy;
+  color: black;
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
   color: var(--global-hover-color);
@@ -539,12 +540,12 @@ footer.sticky-bottom {
   margin-bottom: 10px;
 }
 .projects h2.category {
-  color: var(--global-divider-color);
+  color: black;
   border-bottom: 1px solid var(--global-divider-color);
   padding-top: 0.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  text-align: right;
+  text-align: left;
 }
 
 .publications {
