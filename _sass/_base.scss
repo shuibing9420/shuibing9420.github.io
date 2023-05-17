@@ -145,8 +145,8 @@ blockquote {
 
   .address {
     margin-left: 0rem;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
     font-family: sans-serif;
 
     p {
@@ -251,7 +251,8 @@ a {
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: black;
+    color: navy;
+    font-weight: 400;
 
     &:hover {
       color: var(--global-hover-color);
@@ -261,7 +262,7 @@ a {
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
     font-weight: 600;
-    color: navy;
+    color: black;
 
     &:hover {
       color: var(--global-hover-color);
@@ -560,12 +561,12 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: black;
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    text-align: left;
   }
 }
 

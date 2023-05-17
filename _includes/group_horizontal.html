@@ -1,0 +1,8 @@
+<div class="card" style="display: flex; flex-direction: row; align-items: center; margin-bottom: 0.4rem">
+  <img src="{{ student.img | prepend: '/assets/img/group/' | relative_url }}" style="width: 7rem; height: auto; margin-bottom: 0.4rem; margin-top:0.4rem">
+  <div style="margin-left: 1.5rem; margin-right: 1rem;">
+    <p><h5 style="font-weight: 400">{{student.name}}</h5></p>
+    <!-- <p><b>Research Interests: </b>Memory management, Storage system</p> -->
+    <p style="font-weight: 300">{{student.intro}}</p>
+  </div>
+</div>
