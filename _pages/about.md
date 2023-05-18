@@ -31,6 +31,18 @@ Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang
 University (ZJU)](https://www.zju.edu.cn/english/), China. He leads
 the Intelligent Storage and Computing Systems (ISCS)
 Laboratory at ZJU. 
+He received his Ph.D. in computer science and technology from Huazhong University of Science and
+Technology in 2009. 
+From 2011 to 2015, He was a postdoctoral fellow at the Illinois Institute of Technology.
+His research interests focus on **intelligent computing, parallel and
+distributed computing, I/O and storage systems, non-volatile
+memory, and in-memory computing**.
+
+<!-- Shuibing He (何水兵) is a Professor with the [College of Computer
+Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang
+University (ZJU)](https://www.zju.edu.cn/english/), China. He leads
+the Intelligent Storage and Computing Systems (ISCS)
+Laboratory at ZJU. 
 He received his Ph.D. in computer science and
 technology from [Huazhong University of Science and
 Technology](http://english.hust.edu.cn/) in 2009. 
@@ -38,7 +50,7 @@ From 2011 to 2015, He was a postdoctoral fellow at the
 [Illinois Institute of Technology](https://www.iit.edu/).
 His research interests focus on **intelligent computing, parallel and
 distributed computing, I/O and storage systems, non-volatile
-memory, and in-memory computing**.
+memory, and in-memory computing**. -->
 
 <!-- He is a distinguished member of the China Computer
 Federation (CCF), a committee member of the Information
