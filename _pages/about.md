@@ -70,7 +70,7 @@ Federation (CCF), a committee member of the Information
 Storage Technology Specialized Committee of CCF, and an
 associate editor of the IEEE Transactions on Parallel and
 Distributed Systems (TPDS).  -->
-I has been awarded over ten grants supported by the National Science Foundation of
+I have been awarded over ten grants supported by the National Science Foundation of
 China, the National Key Research and Development Program,
 Alibaba-Inc, etc.
 Besides, my research work has been published in over 80 papers in esteemed international
