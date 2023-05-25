@@ -49,8 +49,7 @@ layout: default
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2>Selected
-            Publications (<u><a href="{{ '/publications/' | relative_url }}"
-            >Full list</a></u>)</h2>
+            Publications (<u><a href="{{ '/publications/' | relative_url }}">Full list</a></u>)</h2>
             <!-- Publications (<u><a style="color: inherit;" href="{{ '/publications/' | relative_url }}" >Full list</a></u>)</h2> -->
             {%- include selected_papers.html %}
           {%- endif %}
