@@ -8,20 +8,20 @@ nav_order: 4
 
 <!-- ### **Academic Service** -->
 
-##### **Journal Editors**
+##### **Editor**
 - Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A)
 
 
-##### **Conference Chairs**
+##### **Organizing Committee**
   - Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
-  - NVM and memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
+  - NVM and Memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
   - Excellent Paper Forum Chair, The 26th National Conference of Information Storage 2020, September 24, 2020, Shanghai, China.
   - Publicity Chair, The 39th IEEE International Symposium on Reliable Distributed Systems (SRDS 2020, CCF B), Shanghai, China.
   - Yong Scholar Forum Chair, The 25th National Conference of Information Storage 2019, September 18, 2019, Shenzhen, Guangdong, China.
   - Ph.D. Student Forum Chair, The 1st Alibaba Cloud and CCF Information Storage Workshop, April 14, 2018, Shanghai Jiao Tong University, Shanghai, China.
 
 
-##### **Conference PC Member or Reviewers** 
+##### **Program Committee** 
 - The 52nd International Conference on Parallel Processing (ICPP 2023)
 - The 23rd ChinaSys Workshop (ChinaSys23rd, China, 2022)
 - The 4th International Conference on High-Performance Big Data and Intelligent Systems (HDIS2022)
@@ -50,7 +50,7 @@ nav_order: 4
 - The International Workshop on Data-Intensive Scalable Computing Systems (DISCS 2015, Austin, USA)
 - The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
 
-##### **Journal Reviewers** 
+##### **Journal Reviewer** 
 - IEEE transactions on vehicular technology (TVT 2023)
 - Journal of Computer Research and Development (JCRD 2022)
 - Journal of Circuits, Systems, and Computers (JCSC 2022) 
