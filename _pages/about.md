@@ -39,37 +39,6 @@ My research interests focus on **intelligent computing, parallel and
 distributed computing, I/O and storage systems, non-volatile
 memory, and in-memory computing**.
 
-<!-- Shuibing He (何水兵) is a Professor with the [College of Computer
-Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang
-University (ZJU)](https://www.zju.edu.cn/english/), China. He leads
-the Intelligent Storage and Computing Systems (ISCS)
-Laboratory at ZJU. 
-He received his Ph.D. in computer science and technology from Huazhong University of Science and
-Technology in 2009. 
-From 2011 to 2015, He was a postdoctoral fellow at the Illinois Institute of Technology.
-His research interests focus on **intelligent computing, parallel and
-distributed computing, I/O and storage systems, non-volatile
-memory, and in-memory computing**. -->
-
-<!-- Shuibing He (何水兵) is a Professor with the [College of Computer
-Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang
-University (ZJU)](https://www.zju.edu.cn/english/), China. He leads
-the Intelligent Storage and Computing Systems (ISCS)
-Laboratory at ZJU. 
-He received his Ph.D. in computer science and
-technology from [Huazhong University of Science and
-Technology](http://english.hust.edu.cn/) in 2009. 
-From 2011 to 2015, He was a postdoctoral fellow at the
-[Illinois Institute of Technology](https://www.iit.edu/).
-His research interests focus on **intelligent computing, parallel and
-distributed computing, I/O and storage systems, non-volatile
-memory, and in-memory computing**. -->
-
-<!-- He is a distinguished member of the China Computer
-Federation (CCF), a committee member of the Information
-Storage Technology Specialized Committee of CCF, and an
-associate editor of the IEEE Transactions on Parallel and
-Distributed Systems (TPDS).  -->
 I have been awarded over ten grants supported by the National Science Foundation of
 China, the National Key Research and Development Program,
 Alibaba-Inc, etc.
@@ -77,13 +46,6 @@ Besides, my research work has been published in over 80 papers in esteemed inter
 conferences and journals, such as ASPLOS, MICRO, HPCA, TC,
 TPDS, and TOS.
 
-<!-- Additionally, He has served as a member of the Technical
-Program Committees for several conferences, including
-ICPP，IPDPS, CLUSTER, NVMSA, ChinaSys, ICPE, and CCFSys,
-and has been a reviewer for many prestigious journals, such
-as TPDS, TC, TMC, TOS, JPDC, PARCO, and JCST, among others.
-He has applied for more than 40 patents and seven software
-copyrights. -->
 I have received numerous awards, including the 2020 IEEE TPDS
 Award for Editorial Excellence, the third prize of the Hubei
 Provincial Science and Technology Information Achievement
