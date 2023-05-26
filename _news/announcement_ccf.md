@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was recognized for my significant contributions in the field of Computer Science and elected as a distinguished member of the China Computer Federation (CCF Distinguished Membership).
+I am recognized as a distinguished member of the China Computer Federation (CCF Distinguished Membership).

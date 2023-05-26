@@ -7,7 +7,8 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
-- Intelligent Computing Storage Systems, Workshop of Computer Science Technology and Research Methods, May 12, 2023, Hangzhou, China. 
+- Storage Systems for AI, CCF@Zhejiang University of Technology, May 24, 2023, Hangzhou, China. 
+- Intelligent Computing and Storage Systems, Workshop of Computer Science Technology and Research Methods, May 12, 2023, Hangzhou, China. 
 - System Research for AI Systems, The ZJU-Huawei Technique Communication Meeting,
 April 14, 2023, Hangzhou, China.
 - Research on Persistent Memory Systems, Northwestern Polytechnical University,

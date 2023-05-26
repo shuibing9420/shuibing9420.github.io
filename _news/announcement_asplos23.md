@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Mapping Very Large Scale Spiking Neuron Network to Neuromorphic  Hardware" has been accepted by ASPLOS 2023.
+Our paper "Mapping Very Large Scale Spiking Neuron Network to Neuromorphic  Hardware" is accepted by ASPLOS 2023.

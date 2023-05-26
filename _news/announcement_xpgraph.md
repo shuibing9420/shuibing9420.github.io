@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "iCACHE: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training" has been accepted by HPCA 2023.
+Our paper "iCACHE: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training" is accepted by HPCA 2023.

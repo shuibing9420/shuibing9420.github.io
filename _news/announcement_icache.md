@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our paper "XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs" has been accepted by MICRO 2022.
+Our paper "XPGraph: XPline-Friendly Persistent Memory Graph
+Stores for Large-Scale Evolving Graphs" is accepted
+by MICRO 2022.
