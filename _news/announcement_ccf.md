@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was recognized as a distinguished member of the China Computer Federation (CCF Distinguished Membership).
+I am recognized as a distinguished member of the China Computer Federation (CCF Distinguished Membership).

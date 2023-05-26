@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment" has been accepted by HPCA 2023.
+Our paper "BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment" is accepted by HPCA 2023.
