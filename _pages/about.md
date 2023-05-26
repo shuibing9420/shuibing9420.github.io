@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
 subtitle: ZJU100 Young Professor | Doctoral supervisor 
 
