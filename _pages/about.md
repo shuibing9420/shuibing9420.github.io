@@ -52,4 +52,7 @@ Provincial Science and Technology Information Achievement
 Award in 2019-2020, and the Best Paper Award at the
 SPEED'2008 workshop.
 
-**Announcement:** We have new Master, Ph.D., and Post-Doc openings. If you are interested in computer architecture, computer systems, and artificial intelligence research, please contact me with your CV.
+**Announcement:** We have new Master, Ph.D., and Post-Doc
+openings. If you are interested in computer architecture,
+computer systems, and artificial intelligence systems research,
+please contact me with your CV.
