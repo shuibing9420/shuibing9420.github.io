@@ -43,7 +43,7 @@ I have been awarded over ten grants supported by the National Science Foundation
 China, the National Key Research and Development Program,
 Alibaba-Inc, etc.
 Besides, my research work has been published in over 80 papers in esteemed international
-conferences and journals, such as ASPLOS, MICRO, HPCA, TC,
+conferences and journals, such as ASPLOS, MICRO, HPCA, SC, TC,
 TPDS, and TOS.
 The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
