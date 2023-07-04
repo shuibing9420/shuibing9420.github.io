@@ -33,8 +33,8 @@ where I lead the Intelligent Storage and Computing Systems (ISCS)
 Laboratory. 
 I obtained my Ph.D. in computer science and technology from Huazhong University of Science and
 Technology in 2009. 
-Subsequently, I went on to work as a postdoctoral fellow at the Illinois
-Institute of Technology from 2011 and 2015.
+Subsequently, I worked as a postdoctoral fellow at the Illinois
+Institute of Technology from 2011 to 2015.
 My research interests focus on **intelligent computing, parallel and
 distributed computing, I/O and storage systems, non-volatile
 memory, and in-memory computing**.
