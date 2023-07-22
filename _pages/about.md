@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p class="bref" align="center"> <strong>heshuibing [at] zju.edu.cn</strong></p>
-    <p class="bref" align="center"><a href ="https://scholar.google.com/citations?user=bVzOI38AAAAJ">Google Scholar </a> || <a href ="https://dblp.org/pid/60/7548.html"> DBLP</a></p>
+    
     
     
 
