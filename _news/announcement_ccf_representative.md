@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am selected as one of the three representative members for the CCF Zhejiang University district and will be attending the first meeting of the 13th CCF Member Representative Conference.
+I am selected as a representative to attend the 13th CCF Conference in Shenyang.
