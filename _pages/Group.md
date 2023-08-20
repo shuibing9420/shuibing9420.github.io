@@ -34,6 +34,12 @@ horizontal: true
 <li>Haoyang Qu</li>
 <li>Ruidong Zhang</li>
 </ul>
+
+<h2 class="category">Former Postdoctoral Researchers</h2>
+<ul>
+<li>Rui Wang (From July 2021 to June 2023; Next position: Zhejiang University)</li>
+</ul>
+
 <h2 class="category">Graduated Students</h2>
 <ul>
 <li>Shuaiben Chen (Graduated in 2022; Next position: Momenta)</li>
