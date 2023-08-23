@@ -4,7 +4,7 @@ title: Group
 permalink: /Group/
 nav: true
 nav_order: 2
-# student_categories: [Post Doc, PhD Students, Master Students]
+# student_categories: [Faculties, PhD Students, Master Students]
 student_categories: [PhD Students, Master Students]
 imageless_categories: [Undergraduated Students, Graduated Students]
 horizontal: true

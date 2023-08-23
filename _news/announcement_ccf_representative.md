@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I am selected as a representative to attend the 13th CCF Conference in Shenyang.
+<a href="https://www.ccf.org.cn/CCF_Board_Election_2023/hydb/2023-07-24/794555.shtml">I am selected as a representative to attend the 13th CCF
+Conference in Shenyang.</a>
+

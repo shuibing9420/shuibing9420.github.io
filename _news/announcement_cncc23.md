@@ -4,5 +4,7 @@ date: 2023-07-20 07:59:00-0400
 inline: true
 related_posts: false
 ---
-<a href="https://mp.weixin.qq.com/s/uBlCIgsb18lI898KLdfGxA">We will organize the first Forum on Storage and Computing
-Technologies for AI Systems co-located with CNCC2023!.</a>
+<a
+href="https://mp.weixin.qq.com/s/uBlCIgsb18lI898KLdfGxA">We
+will organize the Forum on Storage and Compute Technologies
+for AI Systems in CNCC2023!.</a>
