@@ -31,10 +31,11 @@
         <!-- Title -->
         {%- if page.title == "About" -%}
         <!-- <div class="title">{{entry.title}}</div> -->
-        <div class="title"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">{{entry.title}}</a></div>
+        <div class="title">{{entry.title}}</div>
         {%- else -%}
-        <div class="title"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">{{entry.ind}}. {{entry.title}}</a></div>
+        <div class="title">{{entry.ind}}. {{entry.title}}</div>
         {%- endif -%}
+        
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
