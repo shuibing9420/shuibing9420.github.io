@@ -2,7 +2,7 @@
 layout: page
 title: Group
 permalink: /Group/
-nav: true
+nav: false
 nav_order: 2
 # student_categories: [Faculties, PhD Students, Master Students]
 student_categories: [PhD Students, Master Students]
