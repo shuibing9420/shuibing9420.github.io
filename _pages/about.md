@@ -35,16 +35,15 @@ I obtained my Ph.D. in computer science and technology from Huazhong University 
 Technology in 2009. 
 Subsequently, I worked as a postdoctoral fellow at the Illinois
 Institute of Technology from 2011 to 2015.
-My research interests focus on **intelligent computing, parallel and
-distributed computing, I/O and storage systems, non-volatile
-memory, and in-memory computing**.
+My research interests focus on **AI/ML systems, storage, non-volatile
+memory and in-memory computing**.
 
 I have been awarded over ten grants supported by the National Science Foundation of
 China, the National Key Research and Development Program,
 Alibaba-Inc, etc.
 Besides, my research work has been published in over 80 papers in esteemed international
 conferences and journals, such as ASPLOS, MICRO, HPCA, SC, EuroSys, TC,
-TPDS, and TOS.
+TPDS and TOS.
 The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
