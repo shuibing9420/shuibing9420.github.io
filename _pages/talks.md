@@ -7,6 +7,9 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
+- Research on Non-Volatile Memory Systems, The 29th National
+  Conference of Information Storage, September 17, 2023,
+  Guangzhou, China.
 - AI+Storage, The 2023 4th Huawei ICT Software Technology Conference, Huawei Hangzhou Research Institute, July 28, 2023, Hangzhou, China.
 - Intelligent Storage and Computing Innovation Technology, Huawei Hangzhou Research Institute, June 9, 2023, Hangzhou, China.
 - Storage Systems for AI, CCF@Zhejiang University of Technology, May 24, 2023, Hangzhou, China. 

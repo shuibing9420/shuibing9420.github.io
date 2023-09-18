@@ -13,7 +13,7 @@ nav_order: 4
 
 
 ##### **Organizing Committee**
-  - Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 15, 2023, Guangzhou, China.
+  - Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 16, 2023, Guangzhou, China.
   - Panel Chair, The AI System Track of the 2023 Qingyuan Academic Conference, June 11, 2023, Beijing, China.
   - Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
   - NVM and Memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
