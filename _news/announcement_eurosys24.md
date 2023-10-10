@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper "CCL-BTree: A Crash-Consistent Locality-Aware B+-Tree for Reducing XPBuffer-Induced Write Amplification in Persistent Memory" is accepted by EuroSys 2024.
+CCL-BTree is accepted at EuroSys 2024.
 <!-- <strong style="color: var(--global-award-color);font-size:15px;font-family:monospace;font-weight:900;">Best Paper Award at HPCA 2023</strong> -->
