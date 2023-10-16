@@ -9,7 +9,8 @@ nav_order: 4
 <!-- ### **Academic Service** -->
 
 ##### **Editor**
-- Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A)
+- Associate Editor，IEEE Transactions on Computers (TC，CCF A, 2023 - Today)
+- Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A, 2018 - 2022)
 
 
 ##### **Organizing Committee**
