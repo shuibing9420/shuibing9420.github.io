@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-iCACHE is accepted at HPCA 2023.
+iCACHE is accepted by HPCA 2023.

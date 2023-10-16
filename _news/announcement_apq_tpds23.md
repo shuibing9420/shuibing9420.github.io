@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-APQ is accepted at TPDS 2023.
+APQ is accepted by TPDS 2023.
 <!-- <strong style="color: var(--global-award-color);font-size:15px;font-family:monospace;font-weight:900;">Best Paper Award at HPCA 2023</strong> -->

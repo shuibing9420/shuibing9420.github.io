@@ -35,7 +35,7 @@ I obtained my Ph.D. in computer science and technology from Huazhong University 
 Technology in 2009, and was a postdoctor at the Illinois
 Institute of Technology from 2011 to 2015.
 My research interests focus on **AI/ML systems, high
-performance computing, storage, non-volatile
+performance computing, storage systems, non-volatile
 memory, and in-memory computing**.
 
 I have been awarded over ten grants from the National Science Foundation of
@@ -53,7 +53,7 @@ The open-source code for some of our projects is released in
 I have received numerous awards, including the 2020 IEEE TPDS
 Award for Editorial Excellence, the third prize of the Hubei
 Provincial Science and Technology Information Achievement
-Award in 2019-2020, and the Best Paper Award at the
+Award in 2019-2020, and the Best Paper Award of the
 SPEED'2008 workshop.
 
 **Announcement:** We have new Master, Ph.D., and Post-Doc

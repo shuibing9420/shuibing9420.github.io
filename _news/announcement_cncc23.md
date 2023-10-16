@@ -6,4 +6,4 @@ related_posts: false
 ---
 <a
 href="https://mp.weixin.qq.com/s/uBlCIgsb18lI898KLdfGxA">We
-will organize the Storage and Compute Technology Forum for AI Systems at CNCC2023!.</a>
+will organize the Storage and Compute Technology Forum for AI Systems in CNCC2023!.</a>

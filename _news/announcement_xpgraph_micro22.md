@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-XPGraph is accepted at MICRO 2022.
+XPGraph is accepted by MICRO 2022.
