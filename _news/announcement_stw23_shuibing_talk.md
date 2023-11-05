@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I give a talk entitled "Large-Scale AI Storage Systems" in STW 2023.
+I give a talk entitled "Large-Scale AI Storage Systems" at STW 2023.
 <!-- <strong style="color: var(--global-award-color);font-size:15px;font-family:monospace;font-weight:900;">Best Paper Award at HPCA 2023</strong> -->

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BM-Store is accepted at HPCA 2023.
+BM-Store is accepted by HPCA 2023.
