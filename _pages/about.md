@@ -31,11 +31,14 @@ Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang
 University (ZJU)](https://www.zju.edu.cn/english/) in China,
 where I lead the Intelligent Storage and Computing Systems (ISCS)
 Laboratory. 
-I obtained my Ph.D. in computer science and technology from Huazhong University of Science and
+<!-- I obtained my Ph.D. in computer science and technology from Huazhong University of Science and
 Technology in 2009, and was a postdoctor at the Illinois
-Institute of Technology from 2011 to 2015.
-My research interests focus on **AI/ML systems, high-performance computing, storage systems, non-volatile
-memory, and in-memory computing**.
+Institute of Technology from 2011 to 2015. -->
+My current research focuses on **memory and storage systems, systems for AI,
+processing-in-memory**.
+
+<!-- AI/ML systems, high-performance computing, storage systems, non-volatile memory,
+and in-memory computing -->
 
 I have been awarded over ten grants from the National Science Foundation of
 China, the National Key Research and Development Program,

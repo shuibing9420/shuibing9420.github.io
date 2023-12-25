@@ -7,7 +7,8 @@ nav_order: 3
 ---
 
 <!-- ### **Research Project** -->
-
+- "Theoretical Research on Large Model Storage Based on Data Quality Perception", Major Projects of Zhejiang Province, PI, 01/2024-12/2026.
+- "Large-Scale, High-Efficiency Processing-in-Memory systems", National Key Research and Development Program of China, No. 2023YFB4502100, Co-PI, 12/2023-11/2024.
 - "Software Platform Design of Intelligent Computing", Program of Zhejiang Province Science and Technology, No. 2022C01044, Co-PI, 01/2022-12/2023.
 - "Research on Heterogeneous Pooled Resource Management and Task Scheduling in Deep Learning Scenarios", Alibaba Innovative Research Project, PI, 01/2022-12/2022.
 - "The Science and Education Innovation Open Platform of the Next Generation of Artificial Intelligence ", National Key Research and Development Program of China, No.2021ZD0110700, Co-PI, 12/2021-12/2024.
