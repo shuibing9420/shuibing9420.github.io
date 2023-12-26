@@ -34,9 +34,9 @@ Laboratory.
 <!-- I obtained my Ph.D. in computer science and technology from Huazhong University of Science and
 Technology in 2009, and was a postdoctor at the Illinois
 Institute of Technology from 2011 to 2015. -->
-My current research focuses on **memory and storage systems, systems for AI,
-processing-in-memory**.
-
+My current research focuses on **systems for AI, storage systems, non-volatile
+memory, and processing-in-memory**.
+<!-- Systems for AI, Storage Systems, Non-Volatile Memory, Processing in Memory -->
 <!-- AI/ML systems, high-performance computing, storage systems, non-volatile memory,
 and in-memory computing -->
 
