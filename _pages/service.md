@@ -13,7 +13,7 @@ nav_order: 4
 
 ##### **Organizing Committee**
   - General Chair, The 26th ChinaSys Workshop (ChinaSys26th), 2024, Hangzhou, Zhejiang, China.
-  - General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, November 27, 2023, Shenyang, Liaoning, China.
+  - General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, October 27, 2023, Shenyang, Liaoning, China.
   - Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 16, 2023, Guangzhou, China.
   - Panel Chair, The AI System Track of the 2023 Qingyuan Academic Conference, June 11, 2023, Beijing, China.
   - Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
