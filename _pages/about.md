@@ -53,9 +53,9 @@ The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
 I have received numerous awards, including the 2020 IEEE TPDS
-Award for Editorial Excellence, the third prize of the Hubei
+Award for Editorial Excellence, the Third Prize of the Hubei
 Provincial Science and Technology Information Achievement
-Award in 2019-2020, and the Best Paper Award of the
+Award in 2021, and the Best Paper Award of the
 SPEED'2008 workshop.
 
 **Announcement:** We have new Master, Ph.D., and Post-Doc
