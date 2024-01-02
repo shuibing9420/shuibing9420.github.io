@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Grants
+title: Projects
 permalink: /projects/
 nav: true
 nav_order: 3
 ---
 
 <!-- ### **Research Project** -->
-- "Theoretical Research on Large Model Storage Based on Data Quality Perception", Major Projects of Zhejiang Province, PI, 01/2024-12/2026.
+- "High-Performance GPU Memory Expansion Technology for Large Model Training and Inference", Huawei Innovation Research Project, PI, 01/2024-01/2025.
+- "Data Quality-Aware Large Model Storage Theoretical Research", Major Projects of Zhejiang Province, PI, 01/2024-12/2026.
 - "Large-Scale, High-Efficiency Processing-in-Memory systems", National Key Research and Development Program of China, No. 2023YFB4502100, Co-PI, 12/2023-11/2024.
 - "Software Platform Design of Intelligent Computing", Program of Zhejiang Province Science and Technology, No. 2022C01044, Co-PI, 01/2022-12/2023.
 - "Research on Heterogeneous Pooled Resource Management and Task Scheduling in Deep Learning Scenarios", Alibaba Innovative Research Project, PI, 01/2022-12/2022.
