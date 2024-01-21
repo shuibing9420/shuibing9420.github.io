@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our work PMAlloc is accepted by ACM Transactions on Computer Systems (TOCS).
+Our work PMAlloc is accepted by the ACM Transactions on Computer Systems (TOCS).
 
