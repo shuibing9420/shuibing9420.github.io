@@ -30,20 +30,18 @@ I am a Professor with the [College of Computer Science and
 Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/) in China, where I lead the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. 
-<!-- I obtained my Ph.D. in computer science and technology from Huazhong University of Science and
-Technology in 2009, and was a postdoctor at the Illinois
-Institute of Technology from 2011 to 2015. -->
 My current research focuses on **memory and storage systems, intelligent
 computing, high-performance computing, in-memory computing**.
 
 I have been awarded over ten grants from the National Science Foundation of
-China, the National Key Research and Development Program, Alibaba-Inc, etc. I
-have published nearly 90 papers in esteemed international conferences and
-journals, such as ASPLOS, MICRO, HPCA, EuroSys, SC, TOCS, TC, TPDS and TOS. I am
-the Associate Editor of IEEE Transactions on Computers (TC, 2023-) and the
-Associate Editor of IEEE Transactions on Parallel and Distributed Systems (TPDS,
-2018-2022). I also serve as the PC of ICPE, SRDS, ICPP, IPDPS, CLUSTER, etc. The
-open-source code for some of our projects is released in
+China, the National Key Research and Development Program, the Major Projects of
+Zhejiang Province, the Program of Zhejiang Province Science and Technology, Alibaba,
+Huawei, etc. I have published nearly 90 papers in esteemed international
+conferences and journals, such as ASPLOS, MICRO, HPCA, EuroSys, SC, TOCS, TC,
+TPDS and TOS. I am the Associate Editor of IEEE Transactions on Computers (TC,
+2023-) and the Associate Editor of IEEE Transactions on Parallel and Distributed
+Systems (TPDS, 2018-2022). I also serve as the PC of ICPE, SRDS, ICPP, IPDPS,
+CLUSTER, etc. The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
 I have received numerous awards, including the 2020 IEEE TPDS Award for
