@@ -7,6 +7,7 @@ nav_order: 6
 ---
 
 <!-- ### **Awards** -->
+- The Second Class Prize of ASC, 2024.
 - Huawei AI Master Award, 2023.
 - NCIS Best Paper Presentation Award, 2023.
 - The Third Prize of SCC, 2022.
