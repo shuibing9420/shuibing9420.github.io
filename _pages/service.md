@@ -8,9 +8,10 @@ nav_order: 4
 
 <!-- ### **Academic Service** -->
 ##### **Editor**
+- Guest Editor, CCF Transactions on High Performance Computing (THPC, CCF A, 2024)
 - Associate Editor，IEEE Transactions on Computers (TC，CCF A, 2023 - Today)
 - Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A, 2018 - 2022)
-
+  
 ##### **Organizing Committee**
   - General Chair, The 26th ChinaSys Workshop (ChinaSys26th), 2024, Hangzhou, Zhejiang, China.
   - General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, October 27, 2023, Shenyang, Liaoning, China.
@@ -55,6 +56,8 @@ nav_order: 4
 - The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
 
 ##### **Journal Reviewer** 
+- Chinese Journal of Computers (CJC 2024)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS 2023)
 - IEEE transactions on vehicular technology (TVT 2023)
 - Journal of Computer Research and Development (JCRD 2022)
 - Journal of Circuits, Systems, and Computers (JCSC 2022) 
