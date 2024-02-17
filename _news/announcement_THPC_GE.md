@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I serve as the Guest Editor of a special issue of the CCF Transactions on High Performance Computing (THPC).
+I serve as the Guest Editor of the CCF Transactions on High Performance Computing (THPC).
 
