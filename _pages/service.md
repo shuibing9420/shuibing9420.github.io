@@ -8,7 +8,7 @@ nav_order: 4
 
 <!-- ### **Academic Service** -->
 ##### **Editor**
-- Guest Editor, CCF Transactions on High Performance Computing (THPC, CCF A, 2024)
+- Guest Editor, CCF Transactions on High Performance Computing (THPC, SCI, 2024)
 - Associate Editor，IEEE Transactions on Computers (TC，CCF A, 2023 - Today)
 - Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A, 2018 - 2022)
   
