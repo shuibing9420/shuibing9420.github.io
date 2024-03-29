@@ -56,6 +56,8 @@ nav_order: 4
 - The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
 
 ##### **Journal Reviewer** 
+- IEEE Transactions on Parallel and Distributed Systems (TPDS 2024, CCF A)
+- ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A)
 - Chinese Journal of Computers (CJC 2024)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS 2023)
 - IEEE transactions on vehicular technology (TVT 2023)
