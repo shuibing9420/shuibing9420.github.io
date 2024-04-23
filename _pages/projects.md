@@ -7,6 +7,7 @@ nav_order: 3
 ---
 
 <!-- ### **Research Project** -->
+- "AI Model Mapping Methods for In-Memory Computing Architectures”,  Open Fund of Wuhan National Laboratory for Optoelectronics, No. 2023WNLOKF005, PI, 01/2024-12/2026.
 - "High-Performance GPU Memory Expansion Technology for Large Model Training and Inference", Huawei Innovation Research Project, PI, 01/2024-01/2025.
 - "Data Quality-Aware Large Model Storage Theoretical Research", Major Projects of Zhejiang Province, PI, 01/2024-12/2026.
 - "Large-Scale, High-Efficiency Processing-in-Memory systems", National Key Research and Development Program of China, No. 2023YFB4502100, Co-PI, 12/2023-11/2024.
