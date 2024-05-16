@@ -8,21 +8,23 @@ nav_order: 4
 
 <!-- ### **Academic Service** -->
 ##### **Editor**
-- Guest Editor, CCF Transactions on High Performance Computing (THPC, SCI, 2024)
 - Associate Editor，IEEE Transactions on Computers (TC，CCF A, 2023 - Today)
 - Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A, 2018 - 2022)
+- Guest Editor, CCF Transactions on High Performance Computing (THPC, SCI, 2024)
   
 ##### **Organizing Committee**
-  - General Chair, The 26th ChinaSys Workshop (ChinaSys26th), 2024, Hangzhou, Zhejiang, China.
-  - General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, October 27, 2023, Shenyang, Liaoning, China.
-  - Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 16, 2023, Guangzhou, China.
-  - Panel Chair, The AI System Track of the 2023 Qingyuan Academic Conference, June 11, 2023, Beijing, China.
-  - Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
-  - NVM and Memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
-  - Excellent Paper Forum Chair, The 26th National Conference of Information Storage 2020, September 24, 2020, Shanghai, China.
-  - Publicity Chair, The 39th IEEE International Symposium on Reliable Distributed Systems (SRDS 2020, CCF B), Shanghai, China.
-  - Yong Scholar Forum Chair, The 25th National Conference of Information Storage 2019, September 18, 2019, Shenzhen, Guangdong, China.
-  - Ph.D. Student Forum Chair, The 1st Alibaba Cloud and CCF Information Storage Workshop, April 14, 2018, Shanghai Jiao Tong University, Shanghai, China.
+- Program Chair, The 17th IEEE International Conference on Networking,
+  Architecture, and Storage (NAS), 2024, Zhuhai, China.
+- General Chair, The 26th ChinaSys Workshop (ChinaSys26th), 2024, Hangzhou, Zhejiang, China.
+- General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, October 27, 2023, Shenyang, Liaoning, China.
+- Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 16, 2023, Guangzhou, China.
+- Panel Chair, The AI System Track of the 2023 Qingyuan Academic Conference, June 11, 2023, Beijing, China.
+- Tutorials Co-Chair, The 13th ACM/SPEC International Conference on Performance Engineering (ICPE2022), April 9, 2022, Beijing, China.
+- NVM and Memory Session Chair, The 20th ChinaSys Workshop (ChinaSys20th), May 22, Hangzhou, Zhejiang, China.
+- Excellent Paper Forum Chair, The 26th National Conference of Information Storage 2020, September 24, 2020, Shanghai, China.
+- Publicity Chair, The 39th IEEE International Symposium on Reliable Distributed Systems (SRDS 2020, CCF B), Shanghai, China.
+- Yong Scholar Forum Chair, The 25th National Conference of Information Storage 2019, September 18, 2019, Shenzhen, Guangdong, China.
+- Ph.D. Student Forum Chair, The 1st Alibaba Cloud and CCF Information Storage Workshop, April 14, 2018, Shanghai Jiao Tong University, Shanghai, China.
 
 ##### **Program Committee** 
 - The 29th National Conference of Information Storage (NCIS2023)
@@ -56,6 +58,7 @@ nav_order: 4
 - The International Performance Computing and Communications Conference (IPCCC 2014, CCF C)
 
 ##### **Journal Reviewer** 
+- Journal of Systems Architecture (JSA 2024, CCF B)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS 2024, CCF A)
 - ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A)
 - Chinese Journal of Computers (CJC 2024)
