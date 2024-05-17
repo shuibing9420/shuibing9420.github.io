@@ -40,7 +40,8 @@ Huawei, etc. I have published nearly 90 papers in esteemed international
 conferences and journals, such as ASPLOS, MICRO, HPCA, EuroSys, SC, ATC, TOCS, TC,
 TPDS and TOS. I am the Associate Editor of IEEE Transactions on Computers (TC,
 2023-) and the Associate Editor of IEEE Transactions on Parallel and Distributed
-Systems (TPDS, 2018-2022). I also serve as the PC of ICPE, SRDS, ICPP, IPDPS,
+Systems (TPDS, 2018-2022). I also serve as the program chair of NAS2024, general
+chair of ChinaSys2024, the PC of ICPE, SRDS, ICPP, IPDPS,
 CLUSTER, etc. The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
