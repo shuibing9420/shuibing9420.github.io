@@ -30,8 +30,8 @@ I am a Professor with the [College of Computer Science and
 Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/) in China, where I lead the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. 
-My current research focuses on **memory and storage systems, intelligent
-computing, high-performance computing, in-memory computing**.
+My current research focuses on **AI storage systems, persistent memory,
+processing-in-memory, intelligent computing, high-performance computing**.
 
 I have been awarded over ten grants from the National Science Foundation of
 China, the National Key Research and Development Program, the Major Projects of
