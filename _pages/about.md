@@ -33,10 +33,10 @@ Storage and Computing Systems (ISCS) Laboratory.
 My current research focuses on **AI storage systems, persistent memory,
 processing-in-memory, intelligent computing, high-performance computing**.
 
-I have been awarded over ten grants from the National Science Foundation of
+I have been awarded over 20 grants from the National Science Foundation of
 China, the National Key Research and Development Program, the Major Projects of
 Zhejiang Province, the Program of Zhejiang Province Science and Technology, Alibaba,
-Huawei, etc. I have published nearly 90 papers in esteemed international
+Huawei, etc. I have published more than 90 papers in esteemed international
 conferences and journals, such as ASPLOS, MICRO, HPCA, EuroSys, SC, ATC, TOCS, TC,
 TPDS and TOS. I am the Associate Editor of IEEE Transactions on Computers (TC,
 2023-) and the Associate Editor of IEEE Transactions on Parallel and Distributed

@@ -10,11 +10,11 @@ nav_order: 4
 ##### **Editor**
 - Associate Editor，IEEE Transactions on Computers (TC，CCF A, 2023 - Today)
 - Associate Editor，IEEE Transactions on Parallel and Distributed Systems (TPDS，CCF A, 2018 - 2022)
-- Guest Editor, CCF Transactions on High Performance Computing (THPC, SCI, 2024)
+- Editor, CCF Transactions on High Performance Computing (THPC, SCI, 2024)
   
 ##### **Organizing Committee**
 - Program Chair, The 17th IEEE International Conference on Networking,
-  Architecture, and Storage (NAS), 2024, Zhuhai, China.
+  Architecture, and Storage (NAS), 2024, Guangzhou, China.
 - General Chair, The 26th ChinaSys Workshop (ChinaSys26th), 2024, Hangzhou, Zhejiang, China.
 - General Chair, The Forum of Storage and Computing Technology for AI Systems at CNCC23, October 27, 2023, Shenyang, Liaoning, China.
 - Excellent Ph.D. Student Forum Chair, The 29th National Conference of Information Storage, September 16, 2023, Guangzhou, China.
