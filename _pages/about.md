@@ -45,7 +45,9 @@ chair of ChinaSys2024, the PC of ICPE, SRDS, ICPP, IPDPS,
 CLUSTER, etc. The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
-I have received numerous awards, including the 2020 IEEE TPDS Award for
+I have received numerous awards, including the Best Poster Award in the 26th
+ChinaSys workshop in 2024, the Second Class Prize of ASC in 2024, the Best Paper
+Presentation Award in NCIS in 2023, the 2020 IEEE TPDS Award for
 Editorial Excellence, the Third Prize of the Hubei Provincial Science and
 Technology Information Achievement Award in 2021, and the Best Paper Award of
 the SPEED'2008 workshop.
