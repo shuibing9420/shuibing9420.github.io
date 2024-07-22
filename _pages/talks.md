@@ -7,6 +7,7 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
+- Large Model Computing and Storage Systems, CCF Chip Conference, July 21, 2024, Shanghai, China.
 - Storage Systems for AI, The Global Data Storage Expert Forum, May 24, 2024, Shenzhen, China.
 - Persistent Memory Technology: Opportunities, Challenges, and the Future, The Beautiful Lake Seminars, May 11, 2024, Suzhou, China.
 - Persistent Memory Systems, The Shanghai Computer Society Storage Committee Academic Conference, April 20, 2024, Shanghai Jiaotong University, China.
