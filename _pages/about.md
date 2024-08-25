@@ -31,7 +31,7 @@ Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/) in China, where I lead the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. 
 My current research focuses on **AI storage systems, persistent memory,
-processing-in-memory, intelligent computing, high-performance computing**.
+processing-in-memory, and intelligent computing**.
 
 I have been awarded over 20 grants from the National Science Foundation of
 China, the National Key Research and Development Program, the Major Projects of
