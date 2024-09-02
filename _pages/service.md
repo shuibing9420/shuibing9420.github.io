@@ -27,7 +27,9 @@ nav_order: 4
 - Ph.D. Student Forum Chair, The 1st Alibaba Cloud and CCF Information Storage Workshop, April 14, 2018, Shanghai Jiao Tong University, Shanghai, China.
 
 ##### **Program Committee** 
-- The 29th National Conference of Information Storage (NCIS 2023)
+- The 45th IEEE International Conference on Distributed Computing Systems (ICDCS
+  2025, Glasgow, Scotland, UK, CCF B)
+- The 29th National Conference of Information Storage (NCIS, Guangzhou, 2023)
 - The 5th International Conference on High-Performance Big Data and Intelligent
   Systems (HDIS 2023)
 - The 52nd International Conference on Parallel Processing (ICPP 2023)

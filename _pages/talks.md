@@ -7,6 +7,9 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
+- Intelligent Computing and Its Practice in Zhejiang Lab, The “Search for AI
+  Youth" Science Rover Activity in Zhejiang Lab, August
+  16, 2024, Hangzhou, China.
 - Large Model Computing and Storage Systems, CCF Chip Conference, July 21, 2024, Shanghai, China.
 - Storage Systems for AI, The Global Data Storage Expert Forum, May 24, 2024, Shenzhen, China.
 - Persistent Memory Technology: Opportunities, Challenges, and the Future, The Beautiful Lake Seminars, May 11, 2024, Suzhou, China.
