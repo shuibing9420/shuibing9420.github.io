@@ -37,8 +37,9 @@ computer architecture, and high-performance computing**.
 I have been awarded over 20 grants from the National Science Foundation of
 China, the National Key Research and Development Program, the Major Projects of
 Zhejiang Province, the Program of Zhejiang Province Science and Technology, Alibaba,
-Huawei, etc. I have published more than 90 papers in esteemed international
-conferences and journals, such as ASPLOS, MICRO, HPCA, EuroSys, SC, ATC, TOCS, TC,
+Huawei, etc. I have published more than 100 papers in esteemed international
+conferences and journals, such as ASPLOS, MICRO, HPCA, SC,
+EuroSys, ATC, FAST, TOCS, TC,
 TPDS and TOS. I am the Associate Editor of IEEE Transactions on Computers (TC,
 2023-), the Associate Editor of IEEE Transactions on Parallel and Distributed
 Systems (TPDS, 2018-2022), and the Editor of CCF Transactions on High Performance Computing (THPC, 2024-). I also serve as the program chair of NAS2024, general
@@ -46,12 +47,10 @@ chair of ChinaSys2024, the PC member of ICDCS, SRDS, ICPP, IPDPS,
 CLUSTER, etc. The open-source code for some of our projects is released in
 [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
-I have received numerous awards, including the Best Poster Award in the 26th
-ChinaSys workshop in 2024, the Second Class Prize of ASC in 2024, the Best Paper
-Presentation Award in NCIS in 2023, the 2020 IEEE TPDS Award for
-Editorial Excellence, the Third Prize of the Hubei Provincial Science and
-Technology Information Achievement Award in 2021, and the Best Paper Award of
-the SPEED'2008 workshop.
+I have received numerous awards, including the First Prize of Science and Technology Progress in Zhejiang Province in 2023,
+the Best Poster Award in the 26th ChinaSys workshop in 2024, the Second Class Prize of ASC in 2024, the Best Paper
+Presentation Award in NCIS in 2023, the 2020 IEEE TPDS Award for Editorial Excellence, the Third Prize of the Hubei Provincial Science and
+Technology Information Achievement Award in 2021, and the Best Paper Award of the SPEED'2008 workshop.
 
 **Announcement:** We have new Master, Ph.D., and Post-Doc openings. If you are
 interested in computer architecture, computer systems, and artificial
