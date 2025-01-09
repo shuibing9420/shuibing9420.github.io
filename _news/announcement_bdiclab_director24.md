@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I serve as the Deputy Director of the Zhejiang Provincial Key Laboratory of Big Data Intelligent Computing.
+I serve as the Deputy Director of the Zhejiang Key Laboratory of Big Data Intelligent Computing.
 
 
