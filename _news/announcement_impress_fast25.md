@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-IMPRESS is accepted by FAST 2025. Congratulations to Weijian!
+IMPRESS is accepted by FAST 2025. Congratulations to Weijian Chen!

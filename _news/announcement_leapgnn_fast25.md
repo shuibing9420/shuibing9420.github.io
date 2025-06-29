@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LeapGNN is accepted by FAST 2025. Congratulations to Weijian!
+LeapGNN is accepted by FAST 2025. Congratulations to Weijian Chen!
