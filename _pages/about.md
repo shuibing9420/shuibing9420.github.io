@@ -29,9 +29,10 @@ social: true  # includes social icons at the bottom of the page
 I am a Full Professor with the [College of Computer Science and
 Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/) in China, where I lead the Intelligent
-Storage and Computing Systems (ISCS) Laboratory. I am also the Vice
+Storage and Computing Systems (ISCS) Laboratory. 
+<!-- I am also the Vice
 President of the Zhejiang Lab and the Deputy Director of the Zhejiang Key
-Laboratory of Big Data Intelligent Computing.
+Laboratory of Big Data Intelligent Computing. -->
 My current research focuses on **storage systems, intelligent computing,
 computer architecture, and high-performance computing**.
 
