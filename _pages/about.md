@@ -28,19 +28,18 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Full Professor with the [College of Computer Science and
 Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
-(ZJU)](https://www.zju.edu.cn/english/) in China, where I lead the Intelligent
+(ZJU)](https://www.zju.edu.cn/english/) in China, leading the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. 
-<!-- I am also the Vice
+I am also the Vice
 President of the Zhejiang Lab and the Deputy Director of the Zhejiang Key
-Laboratory of Big Data Intelligent Computing. -->
-My current research focuses on **storage systems, intelligent computing,
+Laboratory of Big Data Intelligent Computing.
+My research lies in **storage systems, intelligent computing,
 computer architecture, and high-performance computing**.
 
-I have been awarded over 20 grants from the National Science Foundation of
+I have been awarded 20+ grants from the National Science Foundation of
 China, the National Key Research and Development Program, the Major Projects of
 Zhejiang Province, the Program of Zhejiang Province Science and Technology, Alibaba,
-Huawei, Ant Group, etc. I have published more than 100 papers in esteemed international
-conferences and journals, such as FAST, ASPLOS, MICRO, HPCA, 
+Huawei, Ant Group, etc. I have published 100+ papers in venues such as FAST, ASPLOS, MICRO, HPCA, 
 EuroSys, ATC, SC, VLDB, TOCS, TC,
 TPDS and TOS. I am the Associate Editor of IEEE Transactions on Computers (TC,
 2023-), the Associate Editor of IEEE Transactions on Parallel and Distributed
