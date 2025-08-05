@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Full Professor with the [College of Computer Science and
+I am a Tenured Full Professor with the [College of Computer Science and
 Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/) in China, leading the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. 
