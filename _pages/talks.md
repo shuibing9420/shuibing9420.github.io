@@ -7,6 +7,14 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
+
+- Efficient Large Graph Processing with Chunk-Based Graph Representation Model, The CCF HPC China, August 16, 2025, Ordos, China.
+- Storage System for Large Models with AI-Computing Characteristics, Huawei ICT AI & Algorithms Forum—Converging AI with Algorithms: The Road to AGI, August 7, 2025, Shanghai, China.
+- Processing-In-Memory Optimizations for Graph Convolutional Neural Networks, The Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST), July 20, 2025, Shanghai, China.
+- Storage Systems for Intelligent Computing, the National Research Center for Parallel
+Computer Engineering & Technology, July 17, 2025, Wuxi, China.
+- A Multi-Tier Prefix KV Storage System for Large Language Model Inference, The CCF Technical Committee on Information Storage Technology (CCF-TCIST) forum at Shandong University (Qingdao), May 10, 2025, Qingdao, China.
+- Storage Optimization for Large Language Models, The CCF Technical Committee on Information Storage Technology (CCF-TCIST) forum at Harbin Institute of Technology (Shenzhen), April 16, 2025, Shenzhen, China.
 - Intelligent Computing and Its Practice in Zhejiang Lab, The “Search for AI
   Youth" Science Rover Activity in Zhejiang Lab, August
   16, 2024, Hangzhou, China.
