@@ -52,7 +52,11 @@ CLUSTER, etc. The open-source code for some of our projects is released in
 
 I have received numerous awards, including the First Prize of Science and
 Technology Progress in Zhejiang Province in 2023,
-the First Prize of Invention and Entrepreneurship Achievements of China Invention Association in 2025,
+the First Prize of Invention and Entrepreneurship Achievements of China
+Invention Association in 2025, the Computing Power China–Annual Breakthrough
+Achievement Award in 2025, the ACM ChinaSys Best Doctoral Dissertation
+Award in 2025, the Excellent Poster Award at the China Storage
+Conference in 2025, 
 the Second Prize of the 2nd National College Students’ Information Storage Technology Competition in 2024,
 the Best Poster Award in the 26th ChinaSys workshop in 2024, the Second Class Prize of ASC in 2024, the Best Paper
 Presentation Award in NCIS in 2023, the 2020 IEEE TPDS Award for Editorial
