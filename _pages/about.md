@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Shuiping He is a Tenured Professor at the [College of Computer Science
+Shuibing He is a Tenured Professor at the [College of Computer Science
 and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. He also serves as the Vice
