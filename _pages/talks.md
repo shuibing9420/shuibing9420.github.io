@@ -7,7 +7,8 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
-
+- AI Computing Clusters: Trends, Challenges, and Practices, Infinigence AI Agent Ecosystem Forum, Dec 16, 2025, Hangzhou, China.
+- Trends, Challenges, and Opportunities in Advanced and Domestic Sovereign Computing Power, Ant Group, Nov 19, 2025, Hangzhou, China.
 - AI and 3-Body Computing Constellation: An Exploration of Research-Paradigm Shift, the Digital \& Intelligent Aerospace Forum of the World Internet Conference, Nov 9, 2025, Wuzhen, China.
 - Zhejiang Lab’s AI exploration and practice at the Zhejiang AI Industry Application press conference, Nov 8, 2025, Wuzhen, China.
 - Large-Model Storage Systems, the Forum on Novel Computing and Storage Technologies for Ultra-Large-Scale AI Clusters at CNCC25, October 24, 2025, Harbin, China.
