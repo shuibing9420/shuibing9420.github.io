@@ -30,7 +30,7 @@ Shuibing He is a Tenured Professor at the [College of Computer Science
 and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent
 Storage and Computing Systems (ISCS) Laboratory. He also serves as the Vice
-President of the Zhejiang Lab and the Deputy Director of the Zhejiang Key
+President of Zhejiang Lab and the Deputy Director of Zhejiang Key
 Laboratory of Big Data Intelligent Computing. Dr. He received his Ph.D. in
 Computer System Architecture from Huazhong University of Science and Technology
 in December 2009. Following his doctoral studies, he pursued postdoctoral
