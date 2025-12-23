@@ -41,8 +41,15 @@ January 2010 to October 2015, an Associate Professor from November 2015 to May
 2019, and then joined Zhejiang University as a ZJU100 Young Professor in June
 2019, where he was promoted to Tenured Professor in July 2025.
 
-Dr. He's research interests span **storage systems, intelligent computing,
-computer architecture, and high-performance computing**. He has published over
+<!-- Dr. He's research interests span **storage systems, intelligent computing,
+computer architecture, and high-performance computing**.  -->
+
+Dr. He’s research is driven by the vision of building next-generation
+infrastructure for the AI era. His work focuses on Data-Centric Architecture and
+Systems, Systems for AI, and High-Performance Computing, with a particular
+emphasis on the hardware-software co-design of intelligent storage and computing
+systems to tackle the efficiency bottlenecks of large-scale data processing. He
+has published over
 100 papers in top-tier conferences and journals, including FAST, ASPLOS, MICRO,
 HPCA, EuroSys, ATC, SC, VLDB, TOCS, TC, TPDS, TOS, and TKDE. His work has been
 recognized with numerous awards, such as the First Prize of Science and
