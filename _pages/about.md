@@ -55,7 +55,8 @@ has published over
 100 papers in top-tier conferences and journals, including FAST, ASPLOS, MICRO,
 HPCA, EuroSys, ATC, SC, VLDB, TOCS, TC, TPDS, TOS, and TKDE. His work has been
 recognized with numerous awards, such as the First Prize of Science and
-Technology Progress in Zhejiang Province (2023), the World Internet Conference 
+Technology Progress in Zhejiang Province (2023), the First Prize of Science and
+Technology Progress in Zhejiang Province (2024), the World Internet Conference 
 Awards for Pioneering Science and Technology (2025), the First Prize of Invention
 and Entrepreneurship Achievements of China Invention Association (2025), the
 Computing Power China–Annual Breakthrough Achievement Award (2025), and the ACM
