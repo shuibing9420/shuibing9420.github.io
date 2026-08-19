@@ -29,9 +29,10 @@ social: true  # includes social icons at the bottom of the page
 Dr. Shuibing He is a Tenured Professor in the [College of Computer Science
 and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
 (ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent
-Storage and Computing Systems (ISCS) Laboratory. He also serves as the Vice
-President of Zhejiang Lab and the Deputy Director of Zhejiang Key
-Laboratory of Big Data Intelligent Computing.
+Storage and Computing Systems (ISCS) Laboratory. He also serves as the Deputy Director of Zhejiang Key
+Laboratory of Big Data Intelligent Computing, the Deputy Director of the
+Institute of Computer Architecture and Brain-Computer Engineering at Zhejiang
+University.
 
 <!-- Dr. He received his Ph.D. in
 Computer System Architecture from Huazhong University of Science and Technology
@@ -50,21 +51,22 @@ Dr. He’s research is driven by the vision of building next-generation
 infrastructure for the AI era. His work focuses on Data-Centric Architecture, 
 Systems for AI, and High-Performance Computing, with a particular
 emphasis on the hardware-software co-design of intelligent storage and computing
-systems to tackle "memory and storage walls" of large-scale AI computing. He
-has published over
-100 papers in top-tier conferences and journals, including FAST, ASPLOS, MICRO,
-HPCA, EuroSys, ATC, SC, VLDB, TOCS, TC, TPDS, TOS, and TKDE. His work has been
-recognized with numerous awards, such as the First Class Prize of Science and
+systems to tackle "memory and storage walls" of large-scale AI computing. 
+
+He has been awarded over
+20 grants from various sources, including the National Science Foundation of
+China, the Key Project of the National Natural Science Foundation of China-
+Regional Innovation Development Joint Fund, the National Key Research and
+Development Program, and industry partners like Alibaba, Huawei, and Ant Group.
+He has published over 100 papers in top-tier conferences and journals, including FAST, ASPLOS, MICRO,
+HPCA, EuroSys, ATC, SC, VLDB, TOCS, TC, TPDS, TOS, and TKDE. 
+His work has been recognized with numerous awards, such as the First Class Prize of Science and
 Technology Progress in Zhejiang Province (2023), the First Class Prize of Science and
 Technology Progress in Zhejiang Province (2024), the World Internet Conference 
 Awards for Pioneering Science and Technology (2025), the First Prize of Invention
 and Entrepreneurship Achievements of China Invention Association (2025), the
 Computing Power China–Annual Breakthrough Achievement Award (2025), and the ACM
-ChinaSys Best Doctoral Dissertation Award (2025). He has also been awarded over
-20 grants from various sources, including the National Science Foundation of
-China, the Key Project of the National Natural Science Foundation of China-
-Regional Innovation Development Joint Fund, the National Key Research and
-Development Program, and industry partners like Alibaba, Huawei, and Ant Group.
+ChinaSys Best Doctoral Dissertation Award (2025). 
 
 In addition to his research contributions, Dr. He is actively involved in the
 academic community. He serves as an Associate Editor for IEEE Transactions on
