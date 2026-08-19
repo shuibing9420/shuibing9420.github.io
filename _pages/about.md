@@ -73,7 +73,7 @@ academic community. He serves as an Associate Editor for IEEE Transactions on
 Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS),
 and as an Editor for CCF Transactions on High Performance Computing (THPC). He
 has taken on key roles in academic conferences, such as Program Chair for
-NAS2024 and General Chair for ChinaSys2024, PC member for ICDCS, SRDS, ICPP,
+NAS2024 and General Chair for ChinaSys2024, PC member for HPCA, ICDCS, SRDS, ICPP,
 IPDPS, CLUSTER. The open-source code for some of
 his projects is available in [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
