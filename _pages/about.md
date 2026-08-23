@@ -41,7 +41,11 @@ January 2010 to October 2015, an Associate Professor from November 2015 to May
 2019, where he was promoted to Tenured Professor in July 2025. -->
 
 
-His research is driven by the vision of building next‑generation infrastructure for the AI era. His work focuses on Data‑Centric Architecture, Systems for AI, and High‑Performance Computing, with a particular emphasis on hardware‑software co‑design for intelligent storage and computing systems to tackle the “memory and storage walls” in large‑scale AI computing.
+His research is driven by the vision of building next‑generation infrastructure
+for the AI era. His work focuses on Data‑Centric Architecture, Systems for AI,
+and Storage Systems, with a particular emphasis on hardware‑software co‑design for
+intelligent storage and computing systems to tackle the “memory and storage
+walls” in large‑scale AI computing.
 
 Dr. He has been granted over 20 research projects from various sources,
 including the National Science Foundation of China, the Key Project of the
