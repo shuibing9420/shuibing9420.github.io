@@ -28,11 +28,7 @@ social: true  # includes social icons at the bottom of the page
 
 Dr. Shuibing He is a Tenured Professor in the [College of Computer Science
 and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
-(ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent
-Storage and Computing Systems (ISCS) Laboratory. He also serves as the Deputy Director of Zhejiang Key
-Laboratory of Big Data Intelligent Computing, the Deputy Director of the
-Institute of Computer Architecture and Brain-Computer Engineering at Zhejiang
-University.
+(ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent Storage and Computing Systems (ISCS) Laboratory. He also serves as Deputy Director of the Zhejiang Key Laboratory of Big Data Intelligent Computing, and Deputy Director of the Institute of Computer Architecture and Brain‑Computer Engineering at ZJU.
 
 <!-- Dr. He received his Ph.D. in
 Computer System Architecture from Huazhong University of Science and Technology
@@ -44,40 +40,31 @@ January 2010 to October 2015, an Associate Professor from November 2015 to May
 2019, and then joined Zhejiang University as a ZJU100 Young Professor in June
 2019, where he was promoted to Tenured Professor in July 2025. -->
 
-<!-- Dr. He's research interests span **storage systems, intelligent computing,
-computer architecture, and high-performance computing**.  -->
 
-Dr. He’s research is driven by the vision of building next-generation
-infrastructure for the AI era. His work focuses on Data-Centric Architecture, 
-Systems for AI, and High-Performance Computing, with a particular
-emphasis on the hardware-software co-design of intelligent storage and computing
-systems to tackle "memory and storage walls" of large-scale AI computing. 
+His research is driven by the vision of building next‑generation infrastructure for the AI era. His work focuses on Data‑Centric Architecture, Systems for AI, and High‑Performance Computing, with a particular emphasis on hardware‑software co‑design for intelligent storage and computing systems to tackle the “memory and storage walls” in large‑scale AI computing.
 
-He has been awarded over
-20 grants from various sources, including the National Science Foundation of
-China, the Key Project of the National Natural Science Foundation of China-
-Regional Innovation Development Joint Fund, the National Key Research and
-Development Program, and industry partners like Alibaba, Huawei, and Ant Group.
-He has published over 100 papers in top-tier conferences and journals, including FAST, ASPLOS, MICRO,
-HPCA, EuroSys, ATC, SC, VLDB, TOCS, TC, TPDS, TOS, and TKDE. 
-His work has been recognized with numerous awards, such as the First Class Prize of Science and
-Technology Progress in Zhejiang Province (2023), the First Class Prize of Science and
-Technology Progress in Zhejiang Province (2024), the World Internet Conference 
-Awards for Pioneering Science and Technology (2025), the First Prize of Invention
-and Entrepreneurship Achievements of China Invention Association (2025), the
-Computing Power China–Annual Breakthrough Achievement Award (2025), and the ACM
-ChinaSys Best Doctoral Dissertation Award (2025). 
+Dr. He has been granted over 20 research projects from various sources,
+including the National Science Foundation of China, the Key Project of the
+National Natural Science Foundation of China‑Regional Innovation Development
+Joint Fund, the National Key Research and Development Program, Major Projects of
+Zhejiang Province, and industry
+partners including Alibaba, Huawei, Ant Group, Sugon, H3C, and Inspur. He has
+published over 100 papers in top‑tier conferences and journals, including nearly
+50 papers in CCF‑A‑ranked conferences and journals (top‑tier computer‑science
+publications), such as FAST, ASPLOS, MICRO, HPCA, EuroSys, ATC, SC, VLDB, TOCS,
+TC, TPDS, TOS, and TKDE. Open‑source code for several of his projects is
+available at [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
-In addition to his research contributions, Dr. He is actively involved in the
-academic community. He serves as an Associate Editor for IEEE Transactions on
-Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS),
-and as an Editor for CCF Transactions on High Performance Computing (THPC). He
-has taken on key roles in academic conferences, such as Program Chair for
-NAS2024 and General Chair for ChinaSys2024, PC member for HPCA, ICDCS, SRDS, ICPP,
-IPDPS, CLUSTER. The open-source code for some of
-his projects is available in [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
+In addition to his research contributions, Dr. He is actively involved in the academic community. He serves as an Associate Editor for IEEE Transactions on Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS), and as an Editor for CCF Transactions on High Performance Computing (THPC). He has held key roles in academic conferences, including Program Chair for NAS2024, General Chair for ChinaSys2024, and Program Committee member for HPCA, ICDCS, SRDS, ICPP, IPDPS, and CLUSTER.
 
-Dr. He is currently seeking Master's, Ph.D., and Post-Doc candidates interested
-in computer architecture, computer systems, and artificial intelligence systems
-research. Interested individuals are encouraged to contact him with their CV.
+His work has been recognized with numerous honors and awards, such as the
+First‑Class Prize for Science and Technology Progress of Zhejiang Province
+(2023, 2024), the World Internet Conference Awards for Pioneering Science and
+Technology (2025), the First Prize of Invention and Entrepreneurship
+Achievements from the China Invention Association (2025), the Computing Power
+China — Annual Breakthrough Achievement Award (2025).
+
+Dr. He serves as Convener of the Intelligent Computing Cluster Sub‑group, National Working Group on Intelligent Computing Standardization, participating in the formulation of 2 national standards and 2 international standards. He holds over 50 granted invention patents and 10 software copyrights. His students have achieved distinguished results in the ASC Student Supercomputer Challenge, National University Information Storage Technology Competition, and received the ACM ChinaSys and Zhejiang University Excellent Doctoral Dissertation Awards. Several alumni have been awarded competitive talent programs such as Ant Star Program and Tencent’s Azure‑Cloud Program.
+
+Dr. He is currently seeking Master’s, Ph.D., and Post‑doctoral candidates interested in intelligent computing, AI systems, storage systems, and computer architecture research. Prospective candidates are welcome to contact him with their CV.
 
