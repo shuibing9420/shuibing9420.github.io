@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Professor He was invited to serve on the Program Committee for HPCA 2027.
+Dr. He was invited to serve on the Program Committee for HPCA 2027.
