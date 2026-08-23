@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our paper **ChunkGraph** on graph storage has been accepted by TOS 2026.
-Congratulations to Wenjiong Wang!
+Congratulations to Rui Wang!
