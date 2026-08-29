@@ -5,6 +5,7 @@ inline: true
 related_posts: false
 ---
 
-The project “New‑generation Domestic Hybrid Ten‑thousand‑GPU Intelligent
+The National Key Research and Development Program of China-“New‑generation Domestic Hybrid Ten‑thousand‑GPU Intelligent
 Computing System” has been approved for funding by the Ministry of
 Science and Technology. Dr. He serves as the principal investigator.
+
