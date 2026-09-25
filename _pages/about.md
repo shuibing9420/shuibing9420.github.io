@@ -43,7 +43,7 @@ January 2010 to October 2015, an Associate Professor from November 2015 to May
 
 Driven by the vision of building next-generation AI infrastructure, his research
 spans data-centric architecture, AI systems, and storage systems. Focusing on
-novel architectures, emerging media, and hardware-software co-design, he aims to
+novel computing architectures, emerging storage media, and hardware-software co-design, he aims to
 break through the 'memory and storage walls' in large-scale AI computing
 
 Dr. He has been granted over 20 research projects from various sources,
