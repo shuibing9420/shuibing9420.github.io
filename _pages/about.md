@@ -52,7 +52,7 @@ National Natural Science Foundation of China‑Regional Innovation Development
 Joint Fund, the National Key Research and Development Program, Major Projects of
 Zhejiang Province, and industry
 partners including Alibaba, Huawei, Ant Group, Sugon, H3C, and Inspur. He has
-published over 100 papers in top‑tier conferences and journals, including nearly
+published over 100 papers in top‑tier conferences and journals, including over
 50 papers in CCF‑A‑ranked conferences and journals (top‑tier computer‑science
 publications), such as FAST, ASPLOS, MICRO, HPCA, EuroSys, ATC, SC, VLDB, TOCS,
 TC, TPDS, TOS, and TKDE. Open‑source code for several of his projects is
