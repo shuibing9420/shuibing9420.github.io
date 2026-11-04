@@ -7,6 +7,14 @@ nav_order: 5
 ---
 <!-- <div style="text-align: right"> your-text-here </div> --> 
 <!-- <p style='text-align: justify;'> Your Text </p> -->
+- Multi-Tier Prefix KV Cache Storage System for LLM Inference, the 2026 Data Storage Industry Conference, October 29, 2026, Zhengzhou, China.
+- ReRAM-based Processing-in-Memory Architecture: Hardware-Software Co-Design for Diverse AI Workloads, the AI Chip Architecture Innovation Technical Forum of 2026 Global AI Chip Summit, September 20, 2026, Shanghai, China.
+- Intelligent Computing Storage Systems, the First Data Storage Academic Symposium, East Institute of Technology, September 12, 2026, Ningbo, China.
+- Ultra-Large-Scale Intelligent Computing Systems: Trends, Challenges and Standardization Practices, the Ultra-Large-Scale Cluster Forum during ODCC ODX 2026, September 2, 2026, Beijing, China.
+- Ultra-Large-Scale Intelligent Computing Systems: Trends, Challenges and Practices, the 6th CCF Distributed Computing and Systems Symposium, July 25, 2026, Xiong'an New Area, China.
+- Ultra-Large-Scale Intelligent Computing System, the CCF-TCIST forum at National University of Defense Technology, May 16, 2026, Changsha, China.
+- Technical Challenges and Practices of Ultra-Large-Scale Intelligent Computing Clusters, the CCF-TCIST forum at Ant Group, May 14, 2026, Hangzhou, China.
+- Technical Challenges and Practices of Ultra-Large-Scale Intelligent Computing Clusters, Sugon, March 26, 2026, Beijing, China.
 - AI Computing Clusters: Trends, Challenges, and Practices, Infinigence AI Agent Ecosystem Forum, Dec 16, 2025, Hangzhou, China.
 - Trends, Challenges, and Opportunities in Advanced and Domestic Sovereign Computing Power, Ant Group, Nov 19, 2025, Hangzhou, China.
 - AI and 3-Body Computing Constellation: An Exploration of Research-Paradigm Shift, the Digital \& Intelligent Aerospace Forum of the World Internet Conference, Nov 9, 2025, Wuzhen, China.
