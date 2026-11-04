@@ -26,9 +26,9 @@ social: true  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Dr. Shuibing He is a Tenured Professor in the [College of Computer Science
+Dr. Shuibing He is a Tenured Full Professor in the [College of Computer Science
 and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University
-(ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent Storage and Computing Systems (ISCS) Laboratory. He also serves as Deputy Director of the Zhejiang Key Laboratory of Big Data Intelligent Computing, and Deputy Director of the Institute of Computer Architecture and Brain‑Computer Engineering at ZJU.
+(ZJU)](https://www.zju.edu.cn/english/), where he leads the Intelligent Storage and Computing Systems (ISCS) Laboratory. He has been selected as a National High-Level Leading Talent in Science and Technology Innovation and serves as Chief Scientist of a National Key Research and Development Program project. He also serves as Deputy Director of the Zhejiang Key Laboratory of Big Data Intelligent Computing, and Deputy Director of the Institute of Computer Architecture and Brain‑Computer Engineering at ZJU.
 
 <!-- Dr. He received his Ph.D. in
 Computer System Architecture from Huazhong University of Science and Technology
