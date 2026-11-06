@@ -58,7 +58,13 @@ publications), such as FAST, ASPLOS, MICRO, HPCA, EuroSys, ATC, SC, VLDB, TOCS,
 TC, TPDS, TOS, and TKDE. Open‑source code for several of his projects is
 available at [ISCS-ZJU-code](https://github.com/ISCS-ZJU).
 
-In addition to his research contributions, Dr. He is actively involved in the academic community. He serves as an Associate Editor for IEEE Transactions on Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS), and as an Editor for CCF Transactions on High Performance Computing (THPC). He has held key roles in academic conferences, including Program Chair for NAS2024, General Chair for ChinaSys2024, and Program Committee member for HPCA, ICDCS, SRDS, ICPP, IPDPS, and CLUSTER.
+In addition to his research contributions, Dr. He is actively involved in the
+academic community. He serves as an Associate Editor for IEEE Transactions on
+Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS),
+and as an Editor for CCF Transactions on High Performance Computing (THPC). He
+has held key roles in academic conferences, including Program Chair for NAS2024,
+General Chair for ChinaSys2024, and Program Committee member for HPCA, EuroSys,
+AAAI, ICDCS, SRDS, ICPP, IPDPS, and CLUSTER.
 
 His work has been recognized with numerous honors and awards, such as the
 First‑Class Prize for Science and Technology Progress of Zhejiang Province
