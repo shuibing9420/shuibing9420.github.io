@@ -46,7 +46,7 @@ spans data-centric architecture, AI systems, and storage systems. Focusing on
 novel computing architectures, emerging storage media, and hardware-software co-design, he aims to
 break through the 'memory and storage walls' in large-scale AI computing.
 
-Dr. He has been granted over 20 research projects from various sources,
+Dr. He has been granted over 30 research projects from various sources,
 including the National Science Foundation of China, the Key Project of the
 National Natural Science Foundation of China‑Regional Innovation Development
 Joint Fund, the National Key Research and Development Program, Major Projects of
