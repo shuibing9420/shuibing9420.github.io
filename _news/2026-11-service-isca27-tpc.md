@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. He was invited to serve on the Technical Program Committee for ISCA'27.
+Dr. He was invited to serve on the Technical Program Committee for ISCA 2027.
