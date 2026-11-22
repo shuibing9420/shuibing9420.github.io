@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Dr. He presented a keynote talk entitled *Intelligent Computing Storage Systems*
-at the First Data Storage Academic Symposium, East Institute of Technology, Ninbo, China.
+at the First Data Storage Academic Symposium, East Institute of Technology, Ningbo, China.
