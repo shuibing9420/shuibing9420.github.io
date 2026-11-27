@@ -11,12 +11,13 @@ nav_order: 3
 
 **National and Provincial/Ministerial Research Projects**
 
+- "Efficient Storage Technologies for Multimodal Large Models towards Ultra-Large-Scale Computing Clusters", NSFC Joint Fund, No. U26A2060, PI, 01/2027-12/2030.
 - "Next-Generation Domestic Hybrid Ten-thousand-Card Intelligent Computing
 System", National Key R&D Program of China, No. 2025YFB450650, PI,
 06/2026-05/2028.
-- "Research on Memristor In-Memory Computing AI Chip Architecture for
+- "Memristor In-Memory Computing AI Chip Architecture for
 Trustworthy Deployment", NSFC Joint Fund, No. U25A20423, Co-PI, 01/2026-12/2029.
-- "Research on Basic Software Co-Optimization and Trustworthiness Assurance Technology for Domestic AI Chips", Zhejiang Provincial Key R&D Program, No. 2026SDXT012, Co-PI, 01/2026-12/2028.
+- "Basic Software Co-Optimization and Trustworthiness Assurance Technology for Domestic AI Chips", Zhejiang Provincial Key R&D Program, No. 2026SDXT012, Co-PI, 01/2026-12/2028.
 - "Open Platform for Science and Education Innovation of Next-Generation Artificial Intelligence", STI 2030 Major Projects, No. 2021ZD0110700, Co-PI, 12/2021-12/2024.
 - "Large-Scale, High-Efficiency Processing-in-Memory Systems", National Key R&D Program of China, Co-PI, 12/2023-11/2024.
 - "Data Quality-Aware Large Model Storage Theoretical Research", Major Projects of Zhejiang Province, PI, 01/2024-12/2026.
